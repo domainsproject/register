@@ -1,0 +1,15 @@
+{
+    "description": "A website",
+    "domain": "owns.it.com",
+    "subdomain": "shifat",
+    "owner": {
+        "repo": "https://github.com/ShifatShakhawat",
+        "email": "shifat@duck.com"
+    },
+    "record": {
+        "A": [
+            "76.76.21.21"
+        ]
+    },
+    "proxied": false
+}
