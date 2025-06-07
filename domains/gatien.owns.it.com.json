@@ -1,0 +1,13 @@
+{
+    "description": "A free app that allows users to upload images and generate shareable links",
+    "domain": "owns.it.com",
+    "subdomain": "gatien",
+    "owner": {
+        "repo": "https://github.com/Gqtien",
+        "email": "bin.gatien@gmail.com"
+    },
+    "record": {
+        "CNAME": "gatien-owns-it.vercel.app"
+    },
+    "proxied": false
+}
