@@ -1,0 +1,16 @@
+{
+  "description": "Personal portfolio for Sarwat",
+  "domain": "owns.it.com",
+  "subdomain": "sarwat",
+
+  "owner": {
+    "repo": "https://github.com/sarwat33/register",
+    "email": "arabian.piratesarwat@gmail.com"
+  },
+
+  "record": {
+    "CNAME": "owns.it.com"
+  },
+
+  "proxied": false
+}

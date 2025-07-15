@@ -2,6 +2,16 @@
   <img src="media/promo.gif" alt="Demo" width="100%" />
 </p>
 
+## 📢 Announcements & Status Updates
+
+Please join our Discord server for announcements, updates & upgrades, and downtime notifications regarding the service. While critical updates will be posted on GitHub, all announcements will be available in our Discord server.
+
+<p align="center">
+  <a href="https://discord.gg/jtVHRF9CdK">
+    <img alt="Discord Server" src="https://invidget.wdh.app/jtVHRF9CdK"/>
+  </a>
+</p>
+
 ## 🌐 Available Domains
 
 We offer the following domain for registration:
@@ -41,8 +51,29 @@ We offer the following domain for registration:
 ```
 
 4. **Submit PR**: Create a pull request with your changes
-5. **Wait for Review**: We'll review and merge your request
+5. **Wait for Review**: We'll review and merge your request (review times vary; join our [Discord](https://discord.gg/jtVHRF9CdK) and let us know about your PR to expedite the process)
 6. **Domain Active**: Allow up to 24 hours for DNS propagation (typically 5-15 minutes)
+
+## 🔧 Common Providers
+
+We provide detailed setup guides for various hosting providers. All guides are available at [getyourfree.space/providers](https://getyourfree.space/providers/).
+
+### Available Setup Guides
+
+- [Cloudflare Pages](https://getyourfree.space/providers/cloudflare-pages) - Complete guide for setting up with Cloudflare Pages
+- [Codeberg Pages](https://getyourfree.space/providers/codeberg-pages) - Guide for Codeberg Pages setup
+- [DanBot Hosting](https://getyourfree.space/providers/danbot-hosting) - DanBot Hosting integration guide
+- [Discord](https://getyourfree.space/providers/discord-domain) - Discord integration setup
+- [GitHub Pages](https://getyourfree.space/providers/github-pages) - GitHub Pages configuration guide
+- [Hashnode](https://getyourfree.space/providers/hashnode) - Hashnode setup instructions
+- [ImprovMX](https://getyourfree.space/providers/improvmx) - Email forwarding with ImprovMX
+- [Netlify](https://getyourfree.space/providers/netlify) - Netlify deployment guide
+- [Railway](https://getyourfree.space/providers/railway) - Railway platform setup
+- [Render](https://getyourfree.space/providers/render) - Render deployment instructions
+- [Replit](https://getyourfree.space/providers/replit) - Replit integration guide
+- [Vercel](https://getyourfree.space/providers/vercel) - Vercel deployment setup
+
+Each guide provides detailed instructions for setting up your subdomain with the respective service. Choose your preferred platform and follow the corresponding guide for setup instructions.
 
 ## ⚙️ Domain Features
 
@@ -56,6 +87,27 @@ All our domains include:
 - ✅ TLS 1.2+ Required
 - ✅ WAF Protection
 - ✅ Browser Integrity Checks
+
+
+## 🔒 NS Records
+
+When applying for NS records, please be aware that we already support a wide range of DNS records, so you may not need them. To request NS records:
+
+1. **Explain Your Need**: In your PR, provide a detailed explanation of why you need NS records
+2. **Provide Examples**: Include specific use cases and examples
+3. **Follow Guidelines**: Review our FAQ for allowed usage guidelines
+
+> **Note**: Pull requests for NS records without sufficient justification will be closed. However, donors automatically qualify for NS record access - see our Support section for details.
+
+## ⚠️ Report Abuse
+
+If you discover any subdomains being used for malicious purposes or violating our terms:
+
+1. Create a GitHub issue with the title "Abuse Report: subdomain.owns.it.com"
+2. Provide evidence of the abuse
+3. Include any relevant timestamps and details
+
+We take abuse reports seriously and will investigate promptly.
 
 ## 💝 Support Us
 

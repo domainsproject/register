@@ -1,0 +1,13 @@
+{
+  "description": "Alpha TAo web",
+  "domain": "owns.it.com",
+  "subdomain": "thealphaones",
+  "owner": {
+    "repo": "https://github.com/NormVg/register",
+    "email": "thenormvg@gmail.com"
+  },
+  "record": {
+    "CNAME": "cname.vercel-dns.com"
+  },
+  "proxied": false
+}

@@ -1,0 +1,15 @@
+{
+    "description": "0mogus",
+    "domain": "owns.it.com",
+    "subdomain": "0mogus",
+    "owner": {
+        "repo": "https://github.com/0mogus",
+        "email": "gorodokdonkohot@gmail.com"
+    },
+    "record": {
+        "A": [
+            "43.245.225.66"
+        ]
+    },
+    "proxied": false
+}

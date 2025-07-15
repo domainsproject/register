@@ -1,0 +1,14 @@
+{
+  "domain": "owns.it.com",
+  "subdomain": "vfc",
+
+  "owner": {
+    "email": "hey@tanvir.io"
+  },
+
+  "record": {
+    "CNAME": "a1a7fad382488409.vercel-dns-017.com"
+  },
+
+  "proxied": false
+}

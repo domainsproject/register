@@ -1,0 +1,13 @@
+{
+    "description": "bibizian",
+    "domain": "owns.it.com",
+    "subdomain": "dolka",
+    "owner": {
+        "repo": "https://github.com/ea0hw33/billmgr",
+        "email": "dimazizov@avtotime.pro"
+    },
+    "record": {
+        "A": ["1.1.1.1"]
+    },
+    "proxied": false
+}

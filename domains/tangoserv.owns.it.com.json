@@ -1,0 +1,15 @@
+{
+    "description": "TangoServ",
+    "domain": "owns.it.com",
+    "subdomain": "tangoserv",
+    
+    "owner": {
+        "repo": "https://github.com/detorxis"
+    },
+    
+    "record": {
+        "A": ["95.188.77.143"]
+    },
+    
+    "proxied": false
+}

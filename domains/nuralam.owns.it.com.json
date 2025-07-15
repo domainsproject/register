@@ -1,0 +1,13 @@
+{
+  "description": "Nur Alam",
+  "domain": "owns.it.com",
+  "subdomain": "nuralam",
+  "owner": {
+    "username": "NurAlam123",
+    "email": "nuralam.rsc@gmail.com"
+  },
+  "record": {
+    "CNAME": "nuralam.vercel.app"
+  },
+  "proxied": false
+}

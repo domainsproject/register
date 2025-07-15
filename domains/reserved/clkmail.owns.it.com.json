@@ -1,0 +1,14 @@
+{
+  "domain": "owns.it.com",
+  "subdomain": "clkmail",
+
+  "owner": {
+    "email": "hey@tanvir.io"
+  },
+
+  "record": {
+    "CNAME": "mail.05pu7v0easjv.clerk.services"
+  },
+
+  "proxied": false
+}

@@ -1,0 +1,16 @@
+{
+    "description": "My blog and digital garden",
+    "domain": "owns.it.com",
+    "subdomain": "eoin",
+    
+    "owner": {
+        "repo": "https://github.com/Omega9",
+        "email": "nullnine@gmail.com"
+    },
+    
+    "record": {
+        "CNAME": "omega9.web.app"
+    },
+    
+    "proxied": false
+}
