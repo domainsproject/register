@@ -9,7 +9,7 @@
     "record": {
         "A": ["76.76.21.21"],
         "CNAME": "hashnode.network",
-        
+        "TXT" : ["vc-domain-verify=shifat.owns.it.com,60bdbcc60f63a8f18b13"]
     },
     "proxied": false
 }
