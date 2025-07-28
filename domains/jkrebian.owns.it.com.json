@@ -1,1 +1,18 @@
+{
+"description": "J.Krebian's Foundation Site",
+"domain": "owns.it.com",
+"subdomain": "jkrebian",
 
+"owner": {
+    "repo": "https://github.com/jkrebian/register",
+    "email": "sirchanmp@hacari.net"
+},
+
+"record": {
+    "A": ["185.199.108.153", "185.199.109.153"],
+    "AAAA": ["2606:50c0:8000::153", "2606:50c0:8001::153"],
+    "CNAME": ["jkrebian.github.io"],
+},
+
+"proxied": false
+}
