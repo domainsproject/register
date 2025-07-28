@@ -1,0 +1,13 @@
+{
+  "description": "Foundation Projects",
+  "domain": "owns.it.com",
+  "subdomain": "jk-acme",
+  "owner": {
+    "username": "jkrebian",
+    "email": "sirchanmp@hacari.net"
+  },
+  "record": {
+    "CNAME": "jk-acme.github.io"
+  },
+  "proxied": true
+}
