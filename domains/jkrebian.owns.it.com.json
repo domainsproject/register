@@ -9,9 +9,8 @@
 },
 
 "record": {
-    "A": ["185.199.108.153", "185.199.109.153"],
-    "AAAA": ["2606:50c0:8000::153", "2606:50c0:8001::153"],
-    "CNAME": ["jkrebian.github.io"],
+    "TXT": "_github-pages-challenge-jkrebian.jkrebian.owns.it.com=b1528330ac0d1b402b15e1d5137d2f",
+    "CNAME": "jkrebian.github.io"
 },
 
 "proxied": false
