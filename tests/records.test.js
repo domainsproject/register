@@ -153,149 +153,109 @@ t("All files should have valid record values", (t) => {
         }
 
         const data = fs.readJsonSync(filePath);
-       if (data.record && typeof data.record === 'object') {
-  Object.keys(data.record).forEach((key) => {
-      const value = data.record[key];
-  });
-} else {
-  // Optional: handle the error or fail the test with a clear message
-  t.fail(`Invalid or missing "record" in data: ${JSON.stringify(data)}`);
-}
 
-            // *: string[]
-            if (["A", "AAAA", "MX", "NS"].includes(key)) {
-                t.true(Array.isArray(value), `${file}: Record value should be an array for ${key}`);
-
-                value.forEach((record) => {
-                    t.true(typeof record === "string", `${file}: Record value should be a string for ${key}`);
-                });
-
-                // A: string[]
-                if (key === "A") {
-                    value.forEach((record) => {
-                        t.regex(
-                            record,
-                            ipv4Regex,
-                            `${file}: Record value should be a valid IPv4 address for ${key} at index ${value.indexOf(record)}`
-                        );
-
-                        t.true(
-                            isPublicIPv4(record, data.proxied),
-                            `${file}: Record value should be a public IPv4 address for ${key} at index ${value.indexOf(record)}`
-                        );
-                    });
-                }
-
-                // AAAA: string[]
-                if (key === "AAAA") {
-                    value.forEach((record) => {
-                        t.regex(
-                            expandIPv6(record),
-                            ipv6Regex,
-                            `${file}: Record value should be a valid IPv6 address for ${key} at index ${value.indexOf(record)}`
-                        );
-
-                        t.true(
-                            isPublicIPv6(record),
-                            `${file}: Record value should be a public IPv6 address for ${key} at index ${value.indexOf(record)}`
-                        );
-                    });
-                }
+        if (data.record && typeof data.record === 'object') {
+            Object.keys(data.record).forEach((key) => {
+                const value = data.record[key];
 
                 // *: string[]
-                if (["MX", "NS"].includes(key)) {
+                if (["A", "AAAA", "MX", "NS"].includes(key)) {
+                    t.true(Array.isArray(value), `${file}: Record value should be an array for ${key}`);
+
                     value.forEach((record) => {
-                        t.regex(
-                            record,
-                            hostnameRegex,
-                            `${file}: Record value should be a valid hostname for ${key} at index ${value.indexOf(record)}`
-                        );
+                        t.true(typeof record === "string", `${file}: Record value should be a string for ${key}`);
                     });
+
+                    // A: string[]
+                    if (key === "A") {
+                        value.forEach((record) => {
+                            t.regex(
+                                record,
+                                ipv4Regex,
+                                `${file}: Record value should be a valid IPv4 address for ${key} at index ${value.indexOf(record)}`
+                            );
+
+                            t.true(
+                                isPublicIPv4(record, data.proxied),
+                                `${file}: Record value should be a public IPv4 address for ${key} at index ${value.indexOf(record)}`
+                            );
+                        });
+                    }
+
+                    // AAAA: string[]
+                    if (key === "AAAA") {
+                        value.forEach((record) => {
+                            t.regex(
+                                expandIPv6(record),
+                                ipv6Regex,
+                                `${file}: Record value should be a valid IPv6 address for ${key} at index ${value.indexOf(record)}`
+                            );
+
+                            t.true(
+                                isPublicIPv6(record),
+                                `${file}: Record value should be a public IPv6 address for ${key} at index ${value.indexOf(record)}`
+                            );
+                        });
+                    }
+
+                    // MX, NS: string[]
+                    if (["MX", "NS"].includes(key)) {
+                        value.forEach((record) => {
+                            t.regex(
+                                record,
+                                hostnameRegex,
+                                `${file}: Record value should be a valid hostname for ${key} at index ${value.indexOf(record)}`
+                            );
+                        });
+                    }
                 }
-            }
 
-            // CNAME: string
-            if (key === "CNAME") {
-                t.true(typeof value === "string", `${file}: Record value should be a string for ${key}`);
-                t.regex(value, hostnameRegex, `${file}: Record value should be a valid hostname for ${key}`);
-            }
-
-            // *: {}[]
-            if (["CAA", "SRV"].includes(key)) {
-                t.true(Array.isArray(value), `${file}: Record value should be an array for ${key}`);
-
-                value.forEach((record) => {
-                    t.true(
-                        typeof record === "object",
-                        `${file}: Record value should be an object for ${key} at index ${value.indexOf(record)}`
-                    );
-                });
-
-                // CAA: { flags: number, tag: string, value: string }[]
-                if (key === "CAA") {
-                    value.forEach((record) => {
-                        t.true(
-                            typeof record.flags === "number",
-                            `${file}: CAA record value should have a number for flags at index ${value.indexOf(record)}`
-                        );
-
-                        t.true(
-                            typeof record.tag === "string",
-                            `${file}: CAA record value should have a string for tag at index ${value.indexOf(record)}`
-                        );
-
-                        t.true(
-                            typeof record.value === "string",
-                            `${file}: CAA record value should have a string for value at index ${value.indexOf(record)}`
-                        );
-                    });
-                }
-
-                // SRV: { priority: number, weight: number, port: number, target: string }[]
-                if (key === "SRV") {
-                    value.forEach((record) => {
-                        t.true(
-                            typeof record.priority === "number",
-                            `${file}: SRV record value should have a number for priority at index ${value.indexOf(record)}`
-                        );
-
-                        t.true(
-                            typeof record.weight === "number",
-                            `${file}: SRV record value should have a number for weight at index ${value.indexOf(record)}`
-                        );
-
-                        t.true(
-                            typeof record.port === "number",
-                            `${file}: SRV record value should have a number for port at index ${value.indexOf(record)}`
-                        );
-
-                        t.true(
-                            typeof record.target === "string",
-                            `${file}: SRV record value should have a string for target at index ${value.indexOf(record)}`
-                        );
-
-                        t.regex(
-                            value.target,
-                            hostnameRegex,
-                            `${file}: SRV record value should be a valid hostname for target at index ${value.indexOf(record)}`
-                        );
-                    });
-                }
-            }
-
-            // TXT|SPF: string | string[]
-            if (["SPF", "TXT"].includes(key)) {
-                if (Array.isArray(value)) {
-                    value.forEach((record) => {
-                        t.true(
-                            typeof record === "string",
-                            `${file}: Record value should be a string for ${key} at index ${value.indexOf(record)}`
-                        );
-                    });
-                } else {
+                // CNAME: string
+                if (key === "CNAME") {
                     t.true(typeof value === "string", `${file}: Record value should be a string for ${key}`);
+                    t.regex(value, hostnameRegex, `${file}: Record value should be a valid hostname for ${key}`);
                 }
-            }
-        });
+
+                // CAA, SRV: object[]
+                if (["CAA", "SRV"].includes(key)) {
+                    t.true(Array.isArray(value), `${file}: Record value should be an array for ${key}`);
+
+                    value.forEach((record) => {
+                        t.true(typeof record === "object", `${file}: Record value should be an object for ${key}`);
+                    });
+
+                    if (key === "CAA") {
+                        value.forEach((record) => {
+                            t.true(typeof record.flags === "number", `${file}: CAA record value should have a number for flags`);
+                            t.true(typeof record.tag === "string", `${file}: CAA record value should have a string for tag`);
+                            t.true(typeof record.value === "string", `${file}: CAA record value should have a string for value`);
+                        });
+                    }
+
+                    if (key === "SRV") {
+                        value.forEach((record) => {
+                            t.true(typeof record.priority === "number", `${file}: SRV record value should have a number for priority`);
+                            t.true(typeof record.weight === "number", `${file}: SRV record value should have a number for weight`);
+                            t.true(typeof record.port === "number", `${file}: SRV record value should have a number for port`);
+                            t.true(typeof record.target === "string", `${file}: SRV record value should have a string for target`);
+                            t.regex(record.target, hostnameRegex, `${file}: SRV record value should be a valid hostname for target`);
+                        });
+                    }
+                }
+
+                // TXT, SPF: string | string[]
+                if (["SPF", "TXT"].includes(key)) {
+                    if (Array.isArray(value)) {
+                        value.forEach((record) => {
+                            t.true(typeof record === "string", `${file}: Record value should be a string for ${key}`);
+                        });
+                    } else {
+                        t.true(typeof value === "string", `${file}: Record value should be a string for ${key}`);
+                    }
+                }
+            });
+        } else {
+            t.fail(`Invalid or missing "record" in data: ${JSON.stringify(data)}`);
+        }
     });
 });
