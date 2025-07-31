@@ -153,9 +153,14 @@ t("All files should have valid record values", (t) => {
         }
 
         const data = fs.readJsonSync(filePath);
-
-        Object.keys(data.record).forEach((key) => {
-            const value = data.record[key];
+       if (data.record && typeof data.record === 'object') {
+  Object.keys(data.record).forEach((key) => {
+      const value = data.record[key];
+  });
+} else {
+  // Optional: handle the error or fail the test with a clear message
+  t.fail(`Invalid or missing "record" in data: ${JSON.stringify(data)}`);
+}
 
             // *: string[]
             if (["A", "AAAA", "MX", "NS"].includes(key)) {
