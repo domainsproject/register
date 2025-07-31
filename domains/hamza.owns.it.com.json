@@ -1,0 +1,13 @@
+{
+    "description": "Hamza",
+    "domain": "owns.it.com",
+    "subdomain": "hamza",
+    "owner": {
+        "repo": "https://github.com/Hamza-Djellal",
+        "email": "hamzadjellal129@gmail.com"
+    },
+    "record": {
+        "CNAME": "hamza-djellal.github.io"
+    },
+    "proxied": false
+}

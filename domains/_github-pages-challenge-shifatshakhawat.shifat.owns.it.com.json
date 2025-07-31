@@ -1,9 +1,13 @@
 {
-    "owner": {
-        "username": "ShifatShakhawat",
-        "email": "shifat@duck.com"
-    },
-    "records": {
-        "TXT": ["c0b1fea0369c8807714a57fd3c8796"]
-    }
+  "description": "GitHub Pages challenge verification for shifat.owns.it.com",
+  "domain": "owns.it.com",
+  "subdomain": "_github-pages-challenge-shifatshakhawat.shifat",
+  "owner": {
+    "repo": "https://github.com/ShifatShakhawat/shifat.owns.it",
+    "email": "shifat@duck.com"
+  },
+  "record": {
+    "TXT": ["c0b1fea0369c8807714a57fd3c8796"]
+  },
+  "proxied": false
 }

@@ -1,0 +1,16 @@
+{
+  "description": "Doni's personal website",
+  "domain": "owns.it.com",
+  "subdomain": "doni",
+
+  "owner": {
+    "repo": "https://github.com/slashedzer0",
+    "email": "doniwicaksonox@gmail.com"
+  },
+
+  "record": {
+    "CNAME": "wcks.vercel.app"
+  },
+
+  "proxied": false
+}

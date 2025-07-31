@@ -1,12 +1,13 @@
 {
-    "domain": "shifat.owns.it.com",
-    "description": "shifat.owns.it.com domain for github pages",
+  "description": "shifat.owns.it.com domain for github pages",
+  "domain": "owns.it.com",
+  "subdomain": "shifat",
+  "owner": {
     "repo": "https://github.com/ShifatShakhawat/shifat.owns.it",
-    "owner": {
-        "username": "ShifatShakhawat",
-        "email": "shifat@duck.com"
-    },
-    "records": {
-        "CNAME": "shifatshakhawat.github.io"
-    }
+    "email": "shifat@duck.com"
+  },
+  "record": {
+    "CNAME": "shifatshakhawat.github.io"
+  },
+  "proxied": false
 }

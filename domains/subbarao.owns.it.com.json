@@ -1,10 +1,9 @@
 {
-  "subdomain": "subbarao",
-  "domain": "owns.it.com",
   "description": "My personal website",
-  "repo": "https://github.com/Subbarao6338/subbu-apps-practise-coding",
+  "domain": "owns.it.com",
+  "subdomain": "subbarao",
   "owner": {
-    "username": "subbarao6338",
+    "repo": "https://github.com/Subbarao6338/subbu-apps-practise-coding",
     "email": "necs6338@gmail.com"
   },
   "record": {

@@ -1,13 +1,13 @@
 {
-    "description": "webapp to generate pictures 0-9 from font",
-    "domain": "owns.it.com",
-    "subdomain": "glyphs",
-    "owner": {
-        "username": "vladbrox",
-        "email": "justkoder@duck.com"
-    },
-    "record": {
-        "CNAME": "ae1a7efe2a857521.vercel-dns-017.com"
-    },
-    "proxied": false
+  "description": "webapp to generate pictures 0-9 from font",
+  "domain": "owns.it.com",
+  "subdomain": "glyphs",
+  "owner": {
+    "repo": "https://github.com/vladbrox",
+    "email": "justkoder@duck.com"
+  },
+  "record": {
+    "CNAME": "ae1a7efe2a857521.vercel-dns-017.com"
+  },
+  "proxied": false
 }
