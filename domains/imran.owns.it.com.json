@@ -1,0 +1,16 @@
+{
+    "description": "imranZERO's personal website",
+    "domain": "owns.it.com",
+    "subdomain": "imran",
+    
+    "owner": {
+        "repo": "https://github.com/imranZERO",
+        "email": "imran.leave@gmail.com"
+    },
+    
+    "record": {
+        "CNAME": "imranzero.pages.dev",
+    },
+    
+    "proxied": false
+}
