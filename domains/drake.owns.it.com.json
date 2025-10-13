@@ -2,7 +2,8 @@
     "description": "Drake's pages",
     "repo": "https://github.com/drake-dot-o/drake-dot-o.github.io",
     "owner": {
-        "username": "drake-dot-o"
+        "username": "drake-dot-o",
+        "email": "r1xxwioi4@mozmail.com"
     },
     "records": {
         "CNAME": "drake-dot-o.github.io"
