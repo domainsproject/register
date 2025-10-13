@@ -7,7 +7,7 @@
         "username": "drake-dot-o",
         "email": "r1xxwioi4@mozmail.com"
     },
-    "records": {
+    "record": {
         "CNAME": "drake-dot-o.github.io"
     }
 }
