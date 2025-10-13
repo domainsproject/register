@@ -1,4 +1,6 @@
 {
+    "domain": "owns.it.com"
+    "subdomain": "drake"
     "description": "Drake's pages",
     "repo": "https://github.com/drake-dot-o/drake-dot-o.github.io",
     "owner": {
