@@ -1,0 +1,10 @@
+{
+    "description": "Drake's pages",
+    "repo": "https://github.com/drake-dot-o/drake-dot-o.github.io",
+    "owner": {
+        "username": "drake-dot-o"
+    },
+    "records": {
+        "CNAME": "drake-dot-o.github.io"
+    }
+}
