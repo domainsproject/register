@@ -1,0 +1,12 @@
+{
+  "description": "a grave",
+  "repo": "https://github.com/r1vita/avi/",
+  "owner": {
+    "username": "r1vita",
+    "email": "memory.avi@gmail.com"
+  },
+  "records": {
+    "CNAME": "r1vita.github.io"
+  },
+  "proxied": false
+}
