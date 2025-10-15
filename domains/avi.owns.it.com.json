@@ -1,0 +1,14 @@
+{
+  "description": "avi",
+  "domain": "owns.it.com",
+  "subdomain": "avi",
+  "owner": {
+    "repo": "https://github.com/r1vita/avi/", 
+    "username": "r1vita",
+    "email": "memory.avi@gmail.com"
+  },
+  "records": {
+    "CNAME": "r1vita.github.io"
+  },
+  "proxied": false
+}
