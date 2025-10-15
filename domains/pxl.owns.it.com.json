@@ -1,0 +1,13 @@
+{
+"description": "personal site",
+"domain": "owns.it.com",
+"subdomain": "pxl",
+"owner": {
+    "repo": "https://github.com/pxlskye/pxlskye.github.io",
+    "email": "pxlskye@gmail.com"
+},
+"record": {
+    "CNAME": "pxlskye.github.io",
+},
+"proxied": false
+}
