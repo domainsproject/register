@@ -1,0 +1,13 @@
+{
+    "domain": "owns.it.com",
+    "subdomain": "drake",
+    "description": "Drake's pages",
+    "repo": "https://github.com/drake-dot-o/drake-dot-o.github.io",
+    "owner": {
+        "username": "drake-dot-o",
+        "email": "r1xxwioi4@mozmail.com"
+    },
+    "record": {
+        "CNAME": "drake-dot-o.github.io"
+    }
+}
