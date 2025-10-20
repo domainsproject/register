@@ -27,7 +27,7 @@ jobs:
           path: raw
           token: ${{ secrets.RAW_PUSH_TOKEN }}
 
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v6
         with:
           node-version: latest
 
