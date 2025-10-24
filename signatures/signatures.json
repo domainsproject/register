@@ -231,6 +231,14 @@
       "created_at": "2025-10-14T21:19:59Z",
       "repoId": 969487233,
       "pullRequestNo": 67
+    },
+    {
+      "name": "KataudeOkami",
+      "id": 237492804,
+      "comment_id": 3444949594,
+      "created_at": "2025-10-24T21:21:16Z",
+      "repoId": 969487233,
+      "pullRequestNo": 72
     }
   ]
 }
