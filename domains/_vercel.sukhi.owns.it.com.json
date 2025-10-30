@@ -1,8 +1,9 @@
 {
+    "domain": "owns.it.com",
     "owner": {
         "username": "callmesukhi"
     },
-    "records": {
+    "record": {
         "TXT": "vc-domain-verify=sukhi.owns.it.com,04761e6f2a9f37152de0"
     }
 }
