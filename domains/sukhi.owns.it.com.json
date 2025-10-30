@@ -1,0 +1,10 @@
+{
+  "description": "My personal website",
+  "owner": {
+    "username": "callmesukhi"
+  },
+  "records": {
+    "CNAME": "6dce24bbbecdbb9b.vercel-dns-017.com"
+  },
+  "proxied": false
+}
