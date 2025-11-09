@@ -3,11 +3,11 @@
 "domain": "owns.it.com",
 "subdomain": "pxl",
 "owner": {
-    "repo": "https://github.com/pxlskye/pxlskye.github.io",
+    "repo": "https://github.com/heypxl/heypxl.github.io",
     "email": "pxlskye@gmail.com"
 },
 "record": {
-    "CNAME": "pxlskye.github.io",
+    "CNAME": "heypxl.github.io",
 },
 "proxied": false
 }
