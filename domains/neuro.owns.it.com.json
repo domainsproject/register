@@ -1,0 +1,16 @@
+{
+    "description": "A personal site themed around Windows XP and Neuro-sama for some reason.",
+    "domain": "owns.it.com",
+    "subdomain": "neuro",
+    
+    "owner": {
+        "repo": "https://github.com/repoclones/us",
+        "email": "jasonramesdames@gmail.com"
+    },
+    
+    "record": {
+        "CNAME": "nurox.pages.dev"
+    },
+    
+    "proxied": true
+}
