@@ -1,0 +1,12 @@
+{
+  "description": "huygd.owns.it.com's Brevo 1st key",
+  "repo": "https://github.com/HuyHuynhQuocGD/register2",
+  "owner": {
+    "username": "HuyHuynhQuocGD",
+    "email": "huynhquochuytkna@gmail.com"
+  },
+  "records": {
+    "CNAME": "b2.huygd-owns-it-com.dkim.brevo.com"
+  },
+  "proxied": false
+}
