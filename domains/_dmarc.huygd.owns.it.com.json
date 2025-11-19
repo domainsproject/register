@@ -1,0 +1,12 @@
+{
+  "description": "huygd.owns.it.com's dmarc record",
+  "repo": "https://github.com/HuyHuynhQuocGD/register2",
+  "owner": {
+    "username": "HuyHuynhQuocGD",
+    "email": "huynhquochuytkna@gmail.com"
+  },
+  "records": {
+    "TXT": ["v=DMARC1; p=none; rua=mailto:rua@dmarc.brevo.com"]
+  },
+  "proxied": false
+}
