@@ -1,0 +1,15 @@
+{
+    "description": "My personal website",
+    "domain": "owns.it.com",
+    "subdomain": "daniel",
+    "owner": {
+        "username": "cubebuc",
+        "email": "bubbledan@seznam.cz"
+    },
+    "record": {
+        "A": [
+            "130.61.18.229"
+        ]
+    },
+    "proxied": false
+}
