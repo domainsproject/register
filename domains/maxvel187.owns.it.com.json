@@ -8,9 +8,7 @@
     },
     
     "record": {
-        "A": ["1.1.1.1"],
-        "AAAA": ["::1"],
-        "CNAME": "b6e7c84db676792c.vercel-dns-017.com.",
+        "CNAME": "b6e7c84db676792c.vercel-dns-017.com."
     },
     
     "proxied": false
