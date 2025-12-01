@@ -1,0 +1,16 @@
+{
+    "description": "vercel verify",
+    "domain": "owns.it.com",
+    "subdomain": "_vercel.maxvel187",
+    
+    "owner": {
+        "repo": "https://github.com/MAXVEL187",
+        "email": "m@05050101.xyz"
+    },
+    
+    "record": {
+        "TXT": ["vc-domain-verify=maxvel187.owns.it.com,e994202c3a8fa268a98a"]
+    },
+    
+    "proxied": false
+}
