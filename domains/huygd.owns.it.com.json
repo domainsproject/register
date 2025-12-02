@@ -1,0 +1,18 @@
+{
+  "description": "My blogging and mail server website",
+  "repo": "https://github.com/HuyHuynhQuocGD/register2",
+  "owner": {
+    "username": "HuyHuynhQuocGD",
+    "email": "huynhquochuytkna@gmail.com"
+  },
+  "records": {
+    "AAAA": ["2a11:6c7:f07:75::2"],
+        "MX": [
+      {
+        "target": "mx.terusmail.zone.id",
+        "priority": 10
+      }],
+    "TXT": ["brevo-code:3510e51953af1ca1e9ed13b26df27b32"]
+  },
+  "proxied": true
+}
