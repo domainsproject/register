@@ -1,0 +1,14 @@
+{
+  "description": "Shreyas",
+  "domain": "owns.it.com",
+  "subdomain": "shreyas",
+  "repo": "https://github.com/shreyuh",
+  "owner": {
+    "username": "shreyuh",
+    "email": "helloshreyu@yahoo.com"
+  },
+  "records": {
+    "CNAME": "shreyuh.github.io"
+  },
+  "proxied": false
+}
