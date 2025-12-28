@@ -1,0 +1,13 @@
+{
+  "description": "Commercial-style website (not real) to test how a 3D bird animation would look using JavaScript.",
+  "domain": "owns.it.com",
+  "subdomain": "universitymasters",
+  "owner": {
+    "repo": "https://github.com/JonathanBaquero01/UniversityMasters",
+    "email": "jonathanbaquero01@gmail.com"
+  },
+  "record": {
+    "CNAME": "jonathanbaquero01.github.io"
+  },
+  "proxied": false
+}
