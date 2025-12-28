@@ -1,0 +1,14 @@
+{
+  "description": "Public academic support site for students, with guides, resources, service information, frequently asked questions, and contact channels.",
+  "domain": "owns.it.com",
+  "subdomain": "universitymasters",
+  "owner": {
+    "repo": "https://github.com/JonathanBaquero01/UniversityMasters",
+    "email": "jonathanbaquero01@gmail.com"
+  },
+  "record": {
+    "CNAME": "jonathanbaquero01.github.io"
+  },
+  "proxied": false
+}
+
