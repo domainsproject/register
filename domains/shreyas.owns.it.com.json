@@ -1,11 +1,16 @@
-{
-    "description": "My personal website",
-    "repo": "https://github.com/shreyuh/shreyuh.github.io",
-    "owner": {
-        "username": "shreyuh",
-        "email": "helloshreyu@yahoo.com"
-    },
-    "records": {
-        "CNAME": "shreyuh.github.io"
-    }
-}
+{ 
+     "description": "My personal website", 
+     "domain": "owns.it.com", 
+     "subdomain": "shreyas", 
+      
+     "owner": { 
+         "repo": "https://github.com/shreyuh/shreyuh.github.io", 
+         "email": "helloshreyu@yahoo.com" 
+     }, 
+      
+     "record": { 
+         "CNAME": "shreyuh.github.io" 
+     }, 
+      
+     "proxied": true 
+ }
