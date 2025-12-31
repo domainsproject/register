@@ -1,1 +1,15 @@
-
+{
+    "description": "SWORD-SAIN69",
+    "domain": "owns.it.com",
+    "subdomain": "dextra",
+    "owner": {
+        "repo": "https://github.com/SWORD-SAINT",
+        "email": "gouthamsankarjl@gmail.com"
+    },
+    "record": {
+        "A": [
+            "43.245.225.66"
+        ]
+    },
+    "proxied": false
+}
