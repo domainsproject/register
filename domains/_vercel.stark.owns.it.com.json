@@ -1,0 +1,9 @@
+{
+    "owner": {
+        "username": "urstark",
+        "email": "urstarkz@proton.me"
+    },
+    "records": {
+        "TXT": "vc-domain-verify=stark.owns.it.com,e89e2d9b59b0cf41199a"
+    }
+}
