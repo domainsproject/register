@@ -1,0 +1,16 @@
+{
+    "description": "DealDuck Inc. Service",
+    "domain": "owns.it.com",
+    "subdomain": "dealduck",
+    
+    "owner": {
+        "repo": "https://github.com/KataudeOkami/register",
+        "email": "ufidmeow@gmail.com"
+    },
+    
+    "record": {
+        "A": ["88.84.213.191"],
+    },
+    
+    "proxied": false
+}
