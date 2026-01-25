@@ -1,0 +1,8 @@
+{
+  "domain": "owns.it.com",
+  "subdomain": "atlas",
+  "record": {
+    "type": "CNAME",
+    "value": "atlass11.lovable.app"
+  }
+}
