@@ -1,0 +1,16 @@
+{
+  "description": "Personal website",
+  "domain": "owns.it.com",
+  "subdomain": "priyanshu",
+
+  "owner": {
+    "repo": "https://github.com/Priyansxu/Priyanshu",
+    "email": "priyansxu@yahoo.com"
+  },
+
+  "record": {
+    "CNAME": "34ca1ba7f7ef30a8.vercel-dns-017.com"
+  },
+
+  "proxied": false
+}
