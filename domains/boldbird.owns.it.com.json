@@ -1,0 +1,12 @@
+{
+  "description": "brand page",
+  "repo": "https://github.com/consolecats/repo",
+  "owner": {
+    "username": "consolecats",
+    "email": "consolecats.com@gmail.com"
+  },
+  "records": {
+    "CNAME": "boldbird.pages.dev"
+  },
+  "proxied": false
+}
