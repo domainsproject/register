@@ -1,0 +1,13 @@
+{
+    "description": "The ERP demo site for testing",
+    "domain": "owns.it.com",
+    "subdomain": "erp",
+    "owner": {
+        "repo": "https://github.com/steve-gmail/domainsproject",
+        "email": "steveyi168@gmail.com"
+    },
+    "record": {
+        "A": ["116.63.178.245"]
+    },
+    "proxied": false
+}
