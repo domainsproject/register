@@ -1,0 +1,17 @@
+{
+    "description": "A Next.js + Three.js + GSAP Portfolio",
+    "domain": "owns.it.com",
+    "subdomain": "carlos",
+    
+    "owner": {
+        "repo": "https://github.com/kbtale/portfolio",
+        "email": "cbolivar.dev@openrise.tech"
+    },
+    
+    "record": {
+        "CNAME": "carlosb.vercel.app",
+        "TXT": ["vc-domain-verify=carlos.owns.it.com,4107fbbbeefad43af2eb"]
+    },
+    
+    "proxied": false
+}
