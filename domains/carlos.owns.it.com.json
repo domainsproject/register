@@ -9,7 +9,7 @@
     },
     
     "record": {
-        "CNAME": "carlosb.vercel.app",
+        "A": ["76.76.21.21"],
         "TXT": ["vc-domain-verify=carlos.owns.it.com,4107fbbbeefad43af2eb"]
     },
     
