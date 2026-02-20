@@ -10,15 +10,6 @@
       "185.199.109.153",
       "185.199.110.153",
       "185.199.111.153"
-    ],
-    "TXT": {
-      "baldimods": ["brevo-code:055d043a3897c834bc0c21599a1c856c"],
-      "_dmarc.baldimods": ["v=DMARC1; p=none; rua=mailto:rua@dmarc.brevo.com"]
-    },
-    "CNAME": {
-      "brevo1_domainkey.baldimods": "b1.baldimods-owns-it-com.dkim.brevo.com",
-      "brevo2_domainkey.baldimods": "b2.baldimods-owns-it-com.dkim.brevo.com"
-    }
+    ]
   }
 }
-
