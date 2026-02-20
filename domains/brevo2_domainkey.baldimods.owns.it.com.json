@@ -1,5 +1,5 @@
 {
-  "subdomain": "brevo2_domainkey.baldimods",
+  "subdomain": "brevo2._domainkey.baldimods",
   "domain": "owns.it.com",
   "description": "DKIM2 record for baldimods",
   "owner": {
