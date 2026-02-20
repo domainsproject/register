@@ -1,5 +1,6 @@
 {
-  "domain": "baldimods.owns.it.com",
+  "subdomain": "baldimods",
+  "domain": "owns.it.com",
   "description": "Baldi's Basics Mods Hub a Small Community For Everyone!",
   "owner": {
     "email": "zakaria.next.com@gmail.com"
