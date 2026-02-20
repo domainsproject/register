@@ -3,7 +3,8 @@
   "domain": "owns.it.com",
   "description": "Baldi's Basics Mods Hub a Small Community For Everyone!",
   "owner": {
-    "email": "zakaria.next.com@gmail.com"
+    "email": "zakaria.next.com@gmail.com
+    "repo": "https://github.com/ZakariaALZ1/Baldi-Mods-Hub"
   },
   "record": {
     "A": [
@@ -17,3 +18,4 @@
     ]
   }
 }
+
