@@ -1,7 +1,7 @@
 {
-  "subdomain": "brevo1._domainkey.baldimods",
+  "subdomain": "brevo1._domainkey.baldimodshub",
   "domain": "owns.it.com",
-  "description": "DKIM1 record for baldimods",
+  "description": "DKIM1 record for baldimodshub",
   "owner": {
     "email": "zakaria.next.com@gmail.com"
   },
