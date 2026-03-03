@@ -1,11 +1,13 @@
 {
-    "description": "A smart education resource navigator for Malaysian B40, M40 & T20 communities.",
-    "repo": "https://github.com/pizofreude/edulaluan",
-    "owner": {
-        "username": "pizofreude",
-        "email": "pizofreude@proton.me"
-    },
-    "records": {
-        "A": ["75.2.60.5"]
-    }
+  "description": "A smart education resource navigator for Malaysian B40, M40 & T20 communities.",
+  "repo": "https://github.com/pizofreude/edulaluan",
+  "owner": {
+    "username": "pizofreude",
+    "email": "pizofreude@proton.me"
+  },
+  "domain": "owns.it.com",
+  "subdomain": "edulaluan",
+  "record": {
+    "A": ["75.2.60.5"]
+  }
 }
