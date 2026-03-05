@@ -1,0 +1,13 @@
+{
+    "description": "Key System API",
+    "domain": "owns.it.com",
+    "subdomain": "api.xui",
+    "owner": {
+        "repo": "https://github.com/Tosha1535/register",
+        "email": "tvoya@pochta.com"
+    },
+    "record": {
+        "A": ["185.23.18.96"]
+    },
+    "proxied": false
+}
