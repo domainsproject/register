@@ -5,7 +5,7 @@
     "email": "macaronbakerypatisserie@gmail.com"
   },
   "record": {
-    "CNAME": "593e16ffc005fab6.vercel-dns-017.com"
+    "CNAME": "593e16ffc005fab6.vercel-dns-017.com",
     "TXT": ["vc-domain-verify=macaron.owns.it.com,76d822ef50e5d92bdb18"]
 
   }
