@@ -1,0 +1,16 @@
+{
+    "description": "My Acc Advisor. Website",
+    "domain": "owns.it.com",
+    "subdomain": "accadvisor-srilanka",
+    
+    "owner": {
+        "repo": "https://github.com/ydbasnayaka/Website",
+        "email": "yasasdananjaya77@gmail.com"
+    },
+    
+    "record": {
+        "CNAME": "https://accountingadvisor.netlify.app/"
+    },
+    
+    "proxied": false
+}
