@@ -1,0 +1,10 @@
+{
+  "description": "Ranchi Hardware Store",
+  "owner": {
+    "username": "suswebsite",
+    "email": "pathaksushantraj@gmail.com"
+  },
+  "record": {
+    "CNAME": "suswebsite.github.io"
+  }
+}
