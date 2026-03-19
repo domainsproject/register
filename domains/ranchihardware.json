@@ -1,10 +1,13 @@
 {
-  "description": "Ranchi Hardware Store",
+  "description": "Ranchi Hardware Store India",
+  "domain": "owns.it.com",
+  "subdomain": "ranchihardware",
   "owner": {
-    "username": "suswebsite",
+    "repo": "https://github.com/suswebsite/register",
     "email": "pathaksushantraj@gmail.com"
   },
   "record": {
     "CNAME": "suswebsite.github.io"
-  }
+  },
+  "proxied": false
 }
