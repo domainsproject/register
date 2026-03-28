@@ -1,0 +1,16 @@
+{
+    "description": "Алина Алексей",
+    "domain": "owns.it.com",
+    "subdomain": "aleksey-alina",
+
+    "owner": {
+        "repo": "https://github.com/alinabuyanovskayaa-droid/alina-aleksey",
+        "email": "alina.buyanovskayaa@gmail.com"
+    },
+
+    "record": {
+        "CNAME": "alinabuyanovskayaa.github.io"
+    },
+
+    "proxied": false
+}
