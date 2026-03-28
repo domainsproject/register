@@ -1,0 +1,13 @@
+{
+    "description": "Invitation website for wedding",
+    "domain": "owns.it.com",
+    "subdomain": "aleksey-alina",
+    "owner": {
+        "repo": "https://github.com/alinabuyanovskayaa-droid/alina-aleksey",
+        "email": "alinabuyanovskayaa@gmail.com"
+    },
+    "record": {
+        "CNAME": "alinabuyanovskayaa-droid.github.io/alina-aleksey"
+    },
+    "proxied": false
+}
