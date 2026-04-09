@@ -1,0 +1,16 @@
+{
+    "description": "Mouloud Aamaich - n8n AI Automation Engineer Portfolio",
+    "domain": "owns.it.com",
+    "subdomain": "mouloud-ai",
+
+    "owner": {
+        "repo": "https://github.com/YOUR_USERNAME/YOUR_PORTFOLIO_REPO",
+        "email": "your.email@gmail.com"
+    },
+
+    "record": {
+        "CNAME": "YOUR_USERNAME.github.io"
+    },
+
+    "proxied": false
+}
