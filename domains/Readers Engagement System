@@ -1,0 +1,11 @@
+{
+  "description": "Readers Engagement - connecting authors with active readers",
+  "domain": "owns.it.com",
+  "subdomain": "readersengagement",
+  "owner": {
+    "email": "sivaradorel@gmail.com"
+  },
+  "record": {
+    "CNAME": "6eqzjgr4jb7ju.ok.kimi.link"
+  }
+}
