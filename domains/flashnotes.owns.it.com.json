@@ -1,0 +1,16 @@
+{
+    "description": "AI-Powered Learning Companion - Flashnotes",
+    "domain": "owns.it.com",
+    "subdomain": "flashnotes",
+
+    "owner": {
+        "repo": "https://github.com/shivan632/Flashnotes_Grp_Pjt",
+        "email": "your-email@gmail.com"
+    },
+
+    "record": {
+        "CNAME": "9dc1904440fbf556.vercel-dns-017.com"
+    },
+
+    "proxied": false
+}
