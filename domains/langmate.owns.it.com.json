@@ -1,9 +1,9 @@
 {
-    "description": "language meeting and learning",
+    "description": "LangMate language learning platform for practicing conversations with language partners worldwide",
     "domain": "owns.it.com",
     "subdomain": "langmate",
     "owner": {
-        "repo": "https://github.com/bsahil03/register",
+        "repo": "https://github.com/bsahil03/langmate",
         "email": "borichasahil0311@gmail.com"
     },
     "record": {
