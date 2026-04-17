@@ -1,9 +1,13 @@
 {
-  "owner": {
-    "username": "bsahil03",
-    "email": "borichasahil0311@gmail.com"
-  },
-  "record": {
-    "CNAME": "langmate-lilac.vercel.app"
-  }
+    "description": "language meeting and learning",
+    "domain": "owns.it.com",
+    "subdomain": "langmate",
+    "owner": {
+        "repo": "https://github.com/bsahil03/register",
+        "email": "borichasahil0311@gmail.com"
+    },
+    "record": {
+        "CNAME": "langmate-lilac.vercel.app"
+    },
+    "proxied": false
 }
