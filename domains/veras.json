@@ -1,4 +1,6 @@
 {
+    "subdomain": "veras",
+    "domain": "owns.it.com",
     "description": "personal website",
     "repo": "https://github.com/VERAS1508/Website",
     "owner": {
