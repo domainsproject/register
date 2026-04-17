@@ -1,0 +1,16 @@
+{
+  "description": "RorkOS - Independent Linux distribution ",
+  "domain": "owns.it.com",
+  "subdomain": "rorkos",
+
+  "owner": {
+    "repo": "https://codeberg.org/RorkOS",
+    "email": "rorka900@gmail.com"
+  },
+
+  "record": {
+    "A": ["46.187.55.4"]
+  },
+
+  "proxied": false
+}
