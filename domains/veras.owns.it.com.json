@@ -1,0 +1,13 @@
+{
+    "subdomain": "veras",
+    "domain": "owns.it.com",
+    "description": "personal website",
+    "repo": "https://github.com/VERAS1508/Website",
+    "owner": {
+        "username": "VERAS1508",
+        "email": "TTvlxkas@gmail.com"
+    },
+    "record": {
+        "CNAME": "website-ochre-nine-13.vercel.app"
+    }
+}
