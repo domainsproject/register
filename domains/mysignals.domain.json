@@ -1,0 +1,17 @@
+{
+    "description": "TradingView Signal Receiver for Quantium Signal Bot",
+    "domain": "owns.it.com",
+    "subdomain": "mysignals", 
+    
+    "owner": {
+        "repo": "https://github.com/aitradingalerts1-cloud/register",
+        "email": "aitradingalerts1@gmail.com"
+    },
+    
+    "record": {
+        "A": ["5.227.28.199"],
+        "MX": ["smtp.mysignals.owns.it.com"]
+    },
+    
+    "proxied": false
+}
