@@ -1,0 +1,16 @@
+{
+    "description": "Recipe App - Discover and share delicious recipes",
+    "domain": "owns.it.com",
+    "subdomain": "recipeapp",
+
+    "owner": {
+        "repo": "https://github.com/souravdas090300/recipe-app",
+        "email": "souravdas090300@gmail.com"
+    },
+
+    "record": {
+        "CNAME": "structural-rose-gahp0fpea8deyl8abi0zv163.herokudns.com"
+    },
+
+    "proxied": false
+}
