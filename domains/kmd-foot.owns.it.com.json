@@ -1,10 +1,10 @@
 {
-    "description": "sous domaine principal",
+    "description": "FootManager website",
     "domain": "owns.it.com",
-    "subdomain": "kmd",
+    "subdomain": "kmd-foot",
     "owner": {
         "repo": "",
-        "email": "kamedonaldindia@gmail.com"
+        "email": "kamedonald125@gmail.com"
     },
     "record": {
         "A": ["0.0.0.0"]
