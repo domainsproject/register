@@ -1,1 +1,12 @@
-
+{
+    "description": "Footmanager website",
+    "domain": "owns.it.com",
+    "subdomain": "kmdfoot",
+    "owner": {
+        "repo": "",
+        "email": "kamedonald125.email@gmail.com"
+    },
+    "record": {
+        "A": ["0.0.0.0"]
+    }
+}
