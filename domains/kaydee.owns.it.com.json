@@ -2,15 +2,12 @@
     "description": "My personal website",
     "domain": "owns.it.com",
     "subdomain": "kaydee",
-
     "owner": {
-        "repo": "https://github.com/KAYDEE09",
-        "email": "obirefavour372@gmail.com"
+        "repo": "https://github.com/KAYDEE0912",
+        "email": "280680677+KAYDEE0912@users.noreply.github.com"
     },
-
     "record": {
         "A": ["185.199.108.153", "185.199.109.153", "185.199.110.153", "185.199.111.153"]
     },
-
     "proxied": false
 }
