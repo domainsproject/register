@@ -1,0 +1,13 @@
+{
+    "description": "My professional CNC programming portfolio - precision CNC programming and product design",
+    "domain": "owns.it.com",
+    "subdomain": "bimayufianto-cnc",
+    "owner": {
+        "repo": "https://github.com/hirobima/BIMA-PORTFOLIO-WEB",
+        "email": "hirobima28@gmail.com"
+    },
+    "record": {
+        "CNAME": "bimayufianto-cnc.vercel.app"
+    },
+    "proxied": false
+}
