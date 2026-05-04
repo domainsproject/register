@@ -1,0 +1,16 @@
+{
+    "description": "Dr. Rajni Tiwari - Gastroenterologist & Hepatologist at Westmead Private Hospital",
+    "domain": "owns.it.com",
+    "subdomain": "rajnitiwari",
+
+    "owner": {
+        "repo": "https://github.com/anurag-shukla-2000/dr-rajni-tiwari-website",
+        "email": "anurags17shukla@gmail.com"
+    },
+
+    "record": {
+        "CNAME": "dr-rajni-tiwari-website.vercel.app"
+    },
+
+    "proxied": false
+}
