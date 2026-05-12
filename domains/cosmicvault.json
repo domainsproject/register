@@ -1,0 +1,13 @@
+{
+  "description": "CosmicVault - A space exploration blog using NASA's open APIs to showcase astronomy pictures, Mars rover photos, and asteroid tracking data.",
+  "domain": "owns.it.com",
+  "subdomain": "cosmicvault",
+  "owner": {
+    "repo": "https://github.com/mohankumaronly/Cosmicvault",
+    "email": "mohankumaronly81@gmail.com"
+  },
+  "record": {
+    "CNAME": "cosmicvault-smoky.vercel.app"
+  },
+  "proxied": false
+}
