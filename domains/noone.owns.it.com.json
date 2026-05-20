@@ -1,0 +1,13 @@
+{
+    "description": "This is NoOne",
+    "domain": "owns.it.com",
+    "subdomain": "noone",
+    "owner": {
+        "repo": "https://github.com/NoOne/register",
+        "email": "mruk01250@gmail.com"
+    },
+    "record": {
+        "A": ["125.209.65.84"]
+    },
+    "proxied": false
+}
