@@ -1,0 +1,16 @@
+{
+    "description": "咪の天 - Tarot personal studio website, cat & tarot themed personal consultation platform",
+    "domain": "owns.it.com",
+    "subdomain": "mimeow",
+
+    "owner": {
+        "repo": "https://github.com/mimeow/tarot-studio",
+        "email": "mimeow@users.noreply.github.com"
+    },
+
+    "record": {
+        "CNAME": "tarot-studio-sage.vercel.app"
+    },
+
+    "proxied": false
+}
