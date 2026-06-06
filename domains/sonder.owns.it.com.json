@@ -1,0 +1,13 @@
+{
+  "description": "Sonder AI Studio — Applied AI agency for modern organizations",
+  "domain": "owns.it.com",
+  "subdomain": "sonder",
+  "owner": {
+    "repo": "https://github.com/Manav54321",
+    "email": "manavdesai170303@gmail.com"
+  },
+  "record": {
+    "CNAME": "cname.vercel-dns.com"
+  },
+  "proxied": false
+}
