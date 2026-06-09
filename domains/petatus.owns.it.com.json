@@ -1,0 +1,16 @@
+{
+    "description": "My personal project",
+    "domain": "owns.it.com",
+    "subdomain": "petatus",
+
+    "owner": {
+        "repo": "https://github.com/mory524/register",
+        "email": "morypory@gmail.com"
+    },
+
+    "record": {
+        "CNAME": "black-wind-09d2.morypory-1bc.workers.dev"
+    },
+
+    "proxied": false
+}
