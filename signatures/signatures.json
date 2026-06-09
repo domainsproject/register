@@ -559,6 +559,14 @@
       "created_at": "2026-06-06T10:49:21Z",
       "repoId": 969487233,
       "pullRequestNo": 141
+    },
+    {
+      "name": "mory524",
+      "id": 116164308,
+      "comment_id": 4656383732,
+      "created_at": "2026-06-09T05:19:36Z",
+      "repoId": 969487233,
+      "pullRequestNo": 142
     }
   ]
 }
