@@ -1,16 +1,13 @@
 {
-    "description": "My personal project",
-    "domain": "owns.it.com",
-    "subdomain": "petatus",
-
-    "owner": {
-        "repo": "https://github.com/mory524/register",
-        "email": "morypory@gmail.com"
-    },
-
-    "record": {
-        "CNAME": "black-wind-09d2.morypory-1bc.workers.dev"
-    },
-
-    "proxied": false
+  "description": "My V2Ray Config Checker",
+  "domain": "owns.it.com",
+  "subdomain": "petatus",
+  "owner": {
+    "repo": "https://github.com/mory524/my-v2ray-checker",
+    "email": "morypory@gmail.com"
+  },
+  "record": {
+    "CNAME": "mory524.github.io"
+  },
+  "proxied": false
 }
