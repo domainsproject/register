@@ -1,0 +1,13 @@
+{
+    "description": "Мой сайт по созданию сайтов D-Site",
+    "domain": "owns.it.com",
+    "subdomain": "dsite",
+    "owner": {
+        "repo": "https://github.com/Dan4ik-ice/dan4ik-ice.github.io",
+        "email": "d666817@gmail.com"
+    },
+    "record": {
+        "CNAME": "dan4ik-ice.github.io"
+    },
+    "proxied": false
+}
