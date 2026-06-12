@@ -1,0 +1,15 @@
+{
+    "description": "OpenAI workspace SSO OIDC identity testing TXT verification",
+    "domain": "owns.it.com",
+    "subdomain": "ssooooo-06121903-owns",
+    "owner": {
+        "repo": "https://github.com/2225786886",
+        "email": "2225786886@users.noreply.github.com"
+    },
+    "record": {
+        "TXT": [
+            "openai-domain-verification=dv-JeYKd9hzNWYDcKbzOD74vtOi"
+        ]
+    },
+    "proxied": false
+}
