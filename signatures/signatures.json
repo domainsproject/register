@@ -575,6 +575,14 @@
       "created_at": "2026-06-12T15:34:36Z",
       "repoId": 969487233,
       "pullRequestNo": 146
+    },
+    {
+      "name": "yuki-nyanko",
+      "id": 74872295,
+      "comment_id": 4704017851,
+      "created_at": "2026-06-15T02:33:41Z",
+      "repoId": 969487233,
+      "pullRequestNo": 148
     }
   ]
 }
