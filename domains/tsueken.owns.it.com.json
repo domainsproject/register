@@ -1,0 +1,13 @@
+{
+    "description": "Personal game reward/stat calculator (static web app)",
+    "domain": "owns.it.com",
+    "subdomain": "tsueken",
+    "owner": {
+        "repo": "https://github.com/yuki-nyanko/primordial-star-simulator",
+        "email": "yuki-nyanko@users.noreply.github.com"
+    },
+    "record": {
+        "CNAME": "yuki-nyanko.github.io"
+    },
+    "proxied": false
+}
