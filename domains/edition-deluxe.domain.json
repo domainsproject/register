@@ -5,13 +5,14 @@
     
     "owner": {
         "repo": "https://github.com/l0kapiiiii-dot/Edition-Deluxe",
-        "email": "l0kapiiiii@gmail.com"
+        "email": "l0kapiiiii@gmail.com",
+        "username": "l0kapiiiii-dot"
     },
     
     "record": {
         "A": ["1.1.1.1"],
         "AAAA": ["::1"],
-        "CNAME": "edition-deluxe.com",
+        "CNAME": "l0kapiiiii-dot.github.io",
         "TXT": ["verification=123"]
     },
     
