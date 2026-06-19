@@ -1,0 +1,19 @@
+{
+    "description": "our podcast",
+    "domain": "owns.it.com",
+    "subdomain": "edition-deluxe",
+    
+    "owner": {
+        "repo": "https://github.com/l0kapiiiii-dot/Edition-Deluxe",
+        "email": "l0kapiiiii@gmail.com"
+    },
+    
+    "record": {
+        "A": ["1.1.1.1"],
+        "AAAA": ["::1"],
+        "CNAME": "edition-deluxe.com",
+        "TXT": ["verification=123"]
+    },
+    
+    "proxied": false
+}
