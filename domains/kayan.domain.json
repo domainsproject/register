@@ -1,0 +1,14 @@
+{
+    "description": "Kayan Shah's personal website",
+    "domain": "owns.it.com",
+    "subdomain": "kayan",
+    "owner": {
+        "repo": "https://github.com/KayanShah/kayan.owns.it.com",
+        "email": "hi@kayanshah.com"
+    },
+    "record": {
+        "CNAME": "8726d733f4d89306.vercel-dns-017.com.",
+        "TXT": ["vc-domain-verify=kayan.owns.it.com,d444d7d293d08f19f8af"]
+    },
+    "proxied": false
+}
