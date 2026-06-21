@@ -1,5 +1,5 @@
 {
-    "description": "Kayan Shah's personal website",
+    "description": "Kayan's personal website",
     "domain": "owns.it.com",
     "subdomain": "kayan",
     "owner": {
@@ -7,8 +7,7 @@
         "email": "hi@kayanshah.com"
     },
     "record": {
-        "CNAME": "8726d733f4d89306.vercel-dns-017.com.",
-        "TXT": ["vc-domain-verify=kayan.owns.it.com,d444d7d293d08f19f8af"]
+        "CNAME": "8726d733f4d89306.vercel-dns-017.com"
     },
     "proxied": false
 }
