@@ -1,0 +1,13 @@
+{
+    "description": "Kenneth Paul - Premium Creative Marketing Portfolio",
+    "domain": "owns.it.com",
+    "subdomain": "kennethpaul",
+    "owner": {
+        "repo": "https://github.com/kennethpaulwalker-sys/register",
+        "email": "kenneth.paul.walker@gmail.com"
+    },
+    "record": {
+        "CNAME": "iridescent-fengliu-3918a7.netlify.app"
+    },
+    "proxied": false
+}
