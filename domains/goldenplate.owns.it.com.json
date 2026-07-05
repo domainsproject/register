@@ -1,0 +1,13 @@
+{
+    "description": "Golden Plate Restaurant - Premium dining in Addis Ababa, Bole",
+    "domain": "owns.it.com",
+    "subdomain": "goldenplate",
+    "owner": {
+        "repo": "https://github.com/M1616D/Golden-Plate",
+        "email": "bereket1515mamuye@gmail.com"
+    },
+    "record": {
+        "CNAME": "m1616d.github.io"
+    },
+    "proxied": false
+}
