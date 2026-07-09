@@ -1,0 +1,13 @@
+{
+    "description": "Personal website for M Anshad Koornadka",
+    "domain": "owns.it.com",
+    "subdomain": "anshad",
+    "owner": {
+        "repo": "https://github.com/Anshad2u/anshad2u.github.io",
+        "email": "anshadputtur@gmail.com"
+    },
+    "record": {
+        "CNAME": "anshad2u.github.io"
+    },
+    "proxied": false
+}
