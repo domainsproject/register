@@ -1,0 +1,13 @@
+{
+    "description": "Spectra AI - Open-source AI-powered website auditor built with Next.js and Prisma",
+    "domain": "owns.it.com",
+    "subdomain": "spectra",
+    "owner": {
+        "repo": "https://github.com/Danialj0/spectra-ai",
+        "email": "danial@danialj.com"
+    },
+    "record": {
+        "CNAME": "spectra-pro.netlify.app"
+    },
+    "proxied": false
+}
