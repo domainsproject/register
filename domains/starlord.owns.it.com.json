@@ -1,0 +1,17 @@
+{
+    "description": "Simple subdomain for daily operations and testing.",
+    "domain": "owns.it.com",
+    "subdomain": "starlord753",
+
+    "owner": {
+        "repo": "https://github.com/matteo00-wh/register",
+        "email": "olographic96@gmail.com"
+    },
+
+    "record": {
+        "A": ["127.0.0.1"],
+        "CNAME": "il-tuo-dominio.com"
+    },
+
+    "proxied": false
+}
