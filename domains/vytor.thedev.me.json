@@ -1,0 +1,14 @@
+{
+  "subdomain": "vytor",
+  "domain": "thedev.me",
+  "email_or_discord": "pacotese@gmail.com",
+  "github_username": "vytorrennan",
+  "description": "My personal website",
+
+  "records": {
+    "CNAME": "87d554be02a3869f.vercel-dns-017.com.",
+    "TXT": ["vc-domain-verify=vytor.thedev.me,6b6b8051280710199931"]
+  },
+
+  "proxied": false
+}
