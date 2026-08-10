@@ -1,0 +1,16 @@
+{
+    "description": "Red Left Hand — personal site, bots, and automation services",
+    "domain": "owns.it.com",
+    "subdomain": "redlefthand",
+
+    "owner": {
+        "repo": "https://github.com/redFThand/register",
+        "email": "kastanoabra@outlook.com"
+    },
+
+    "record": {
+        "A": ["147.93.156.243"]
+    },
+
+    "proxied": false
+}
