@@ -1,0 +1,13 @@
+{
+    "description": "Handmade crochet creations by Lili",
+    "domain": "owns.it.com",
+    "subdomain": "lilicrochet",
+    "owner": {
+        "repo": "https://github.com/drr64/lilicrochet",
+        "email": "riadkalal64@gmail.com"
+    },
+    "record": {
+        "CNAME": "drr64.github.io"
+    },
+    "proxied": false
+}
