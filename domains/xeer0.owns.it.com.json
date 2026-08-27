@@ -1,0 +1,15 @@
+{
+  "description": "Personal portfolio and digital services website",
+  "domain": "owns.it.com",
+  "subdomain": "xeer0",
+  "owner": {
+    "repo": "https://github.com/badboiaf",
+    "email": "xeer0@yahoo.com"
+  },
+  "record": {
+    "CNAME": [
+      "cname.vercel-dns.com"
+    ]
+  },
+  "proxied": false
+}
