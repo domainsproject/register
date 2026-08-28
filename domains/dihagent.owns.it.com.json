@@ -1,0 +1,13 @@
+{
+    "description": "DihSpeed trading-agent dashboard (paper trading bot), hosted on Railway",
+    "domain": "owns.it.com",
+    "subdomain": "dihagent",
+    "owner": {
+        "repo": "https://github.com/onlydeployyyessss/dihspeed-agent",
+        "email": "onlydeployyyessss@users.noreply.github.com"
+    },
+    "record": {
+        "CNAME": "dihspeed-production.up.railway.app"
+    },
+    "proxied": true
+}
