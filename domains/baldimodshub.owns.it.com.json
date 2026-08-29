@@ -1,0 +1,23 @@
+{
+  "subdomain": "baldimodshub",
+  "domain": "owns.it.com",
+  "description": "Baldi's Basics Mods Hub a Small Community For Everyone!",
+  "owner": {
+    "email": "zakaria.next.com@gmail.com",
+    "repo": "https://github.com/ZakariaALZ1/Baldi-Mods-Hub"
+  },
+  "record": {
+    "A": [
+      "185.199.108.153",
+      "185.199.109.153",
+      "185.199.110.153",
+      "185.199.111.153"
+    ],
+    "TXT": [
+      "brevo-code:055d043a3897c834bc0c21599a1c856c"
+    ]
+  }
+}
+
+
+
