@@ -1,0 +1,9 @@
+{
+  "$schema": "https://raw.githubusercontent.com/domainsproject/config/refs/heads/main/schema/subdomain.json",
+  "domain": "owns.it.com",
+  "subdomain": "FameList",
+  "records": {
+    "CNAME": ["glitterinzem-star.github.io"]
+  },
+  "proxied": false
+}
