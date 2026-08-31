@@ -1,0 +1,13 @@
+{
+  "description": "Personal Hermes AI Agent interface hosted on Oracle Cloud",
+  "domain": "owns.it.com",
+  "subdomain": "haris",
+  "owner": {
+    "repo": "https://github.com/haristanvir27-lab",
+    "email": "haristanvir27@gmail.com"
+  },
+  "record": {
+    "A": ["80.225.224.134"]
+  },
+  "proxied": false
+}
