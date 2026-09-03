@@ -1,0 +1,16 @@
+{
+    "description": "Al-Seraj - Islamic learning platform",
+    "domain": "owns.it.com",
+    "subdomain": "alseraj",
+
+    "owner": {
+        "repo": "https://github.com/BaydaaAlkhader/Alseraj",
+        "email": "baydaakhader240@gmail.com"
+    },
+
+    "record": {
+        "CNAME": "alseraj.onrender.com"
+    },
+
+    "proxied": false
+}
