@@ -1,0 +1,13 @@
+{
+  "description": "A non-commercial browser-based rebirth simulation game",
+  "domain": "owns.it.com",
+  "subdomain": "mingu-sim",
+  "owner": {
+    "repo": "https://github.com/DebugDiver",
+    "email": "DebugDiver@users.noreply.github.com"
+  },
+  "record": {
+    "CNAME": "dist-521gjgrr-6nmygqw5.edgeone.cool"
+  },
+  "proxied": false
+}
