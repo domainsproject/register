@@ -1,0 +1,11 @@
+{
+  "subdomain": "brevo2._domainkey.baldimodshub",
+  "domain": "owns.it.com",
+  "description": "DKIM2 record for baldimodshub",
+  "owner": {
+    "email": "zakaria.next.com@gmail.com"
+  },
+  "record": {
+    "CNAME": "b2.baldimodshub-owns-it-com.dkim.brevo.com"
+  }
+}
