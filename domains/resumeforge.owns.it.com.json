@@ -1,0 +1,13 @@
+{
+  "description": "AI Resume Builder for Students and Freshers",
+  "domain": "owns.it.com",
+  "subdomain": "resumeforge",
+  "owner": {
+    "repo": "https://github.com/shashigaurav/resumeforge",
+    "email": "shashigaurav789@gmail.com"
+  },
+  "record": {
+    "CNAME": "cname.vercel-dns.com"
+  },
+  "proxied": false
+}
