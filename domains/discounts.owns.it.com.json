@@ -1,1 +1,13 @@
-
+{
+  "description": "Discounts website",
+  "domain": "owns.it.com",
+  "subdomain": "discounts",
+  "owner": {
+    "repo": "https://github.com/gjvhvv/Discounts",
+    "email": "abdallahadelqr@gmail.com"
+  },
+  "record": {
+    "CNAME": "gjvhvv.github.io"
+  },
+  "proxied": false
+}
