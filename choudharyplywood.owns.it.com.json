@@ -1,0 +1,13 @@
+{
+  "description": "Official website and digital showroom for CHOUDHARY PLYWOOD & HARDWARE in Borabanda, Hyderabad, offering plywood, interior materials and hardware.",
+  "domain": "owns.it.com",
+  "subdomain": "choudharyplywood",
+  "owner": {
+    "repo": "https://github.com/jahangeershaik997-dev/choudhary-plywood-hardware",
+    "email": "jahangeershaik997@gmail.com"
+  },
+  "record": {
+    "CNAME": "choudhary-plywood-hardware.vercel.app"
+  },
+  "proxied": false
+}
