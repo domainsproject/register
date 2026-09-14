@@ -1,0 +1,13 @@
+{
+  "description": "Veyltharyn Minecraft community website",
+  "domain": "owns.it.com",
+  "subdomain": "veyltharyn",
+  "owner": {
+    "repo": "https://github.com/brewaryo-sketch/Veyltharyn",
+    "email": "brewaryo@gmail.com"
+  },
+  "record": {
+    "CNAME": "brewaryo-sketch.github.io"
+  },
+  "proxied": false
+}
