@@ -1,0 +1,13 @@
+{
+  "description": "Public website for the CrisisWeave crisis information and recovery coordination engineering prototype.",
+  "domain": "owns.it.com",
+  "subdomain": "crisisweave",
+  "owner": {
+    "repo": "https://github.com/davidmariscalf/CrisisWeave",
+    "email": "useproqr@gmail.com"
+  },
+  "record": {
+    "CNAME": "crisisweave.netlify.app"
+  },
+  "proxied": false
+}
