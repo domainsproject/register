@@ -1,0 +1,13 @@
+{
+  "description": "دليل دمشق وريف دمشق - دليل طبي وحكومي",
+  "domain": "owns.it.com",
+  "subdomain": "dalil-damascus",
+  "owner": {
+    "repo": "https://github.com/YPYV/YPYV.github.io",
+    "email": "ypyv2007@gmail.com"
+  },
+  "record": {
+    "CNAME": "YPYV.github.io"
+  },
+  "proxied": false
+}
