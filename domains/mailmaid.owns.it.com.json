@@ -1,0 +1,13 @@
+{
+  "description": "MailMaid Chrome extension website",
+  "domain": "owns.it.com",
+  "subdomain": "mailmaid",
+  "owner": {
+    "repo": "https://github.com/greeneelisha/MailMaid",
+    "email": "elisha87654321@gmail.com"
+  },
+  "record": {
+    "CNAME": "greeneelisha.github.io"
+  },
+  "proxied": false
+}
