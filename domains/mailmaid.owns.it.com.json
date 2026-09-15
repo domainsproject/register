@@ -7,7 +7,12 @@
     "email": "elisha87654321@gmail.com"
   },
   "record": {
-    "CNAME": "greeneelisha.github.io",
+    "A": [
+      "185.199.108.153",
+      "185.199.109.153",
+      "185.199.110.153",
+      "185.199.111.153"
+    ],
     "TXT": [
       "google-site-verification=nDBcJsThINwXI-7HwivMzxinAa08CRDvBbjnqW802-0"
     ]
