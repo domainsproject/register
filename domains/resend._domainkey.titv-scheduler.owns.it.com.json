@@ -1,0 +1,13 @@
+{
+  "description": "Resend DKIM record for TITV engineering scheduling notifications",
+  "domain": "owns.it.com",
+  "subdomain": "resend._domainkey.titv-scheduler",
+  "owner": {
+    "repo": "https://github.com/thewritethatstaysmusic2025-cmyk",
+    "email": "329927111+thewritethatstaysmusic2025-cmyk@users.noreply.github.com"
+  },
+  "record": {
+    "TXT": ["p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCrTTUzW2UmF/UlDvhUEvE48TrmHLsNf0U0NZJwvwpNc2o2XcVZRLrdMIQYsUdwA3Mvo5pN8ZRGzGGv3Jpx7NO/2B8tPxCAGKFcTU3qWdXfQVFuErXtX1jY9oanCWkKpux7YDCid2Abf8MVlpUH7NApXJ/0r2REVJIRxL6Y8pDHNQIDAQAB"]
+  },
+  "proxied": false
+}

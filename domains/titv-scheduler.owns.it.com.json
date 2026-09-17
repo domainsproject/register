@@ -1,0 +1,13 @@
+{
+  "description": "TITV engineering scheduling notification domain",
+  "domain": "owns.it.com",
+  "subdomain": "titv-scheduler",
+  "owner": {
+    "repo": "https://github.com/thewritethatstaysmusic2025-cmyk",
+    "email": "329927111+thewritethatstaysmusic2025-cmyk@users.noreply.github.com"
+  },
+  "record": {
+    "TXT": ["titv-engineering-scheduler"]
+  },
+  "proxied": false
+}
