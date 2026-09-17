@@ -1,14 +1,14 @@
 {
-    "description": "A website",
+    "description": "Discounts website",
     "domain": "owns.it.com",
-    "subdomain": "bobby",
+    "subdomain": "discounts",
     "owner": {
-        "repo": "https://github.com/bobbylashley252",
-        "email": "bobbylashley252@gmail.com"
+        "repo": "https://github.com/gjvhvv/Discounts",
+        "email": "abdallahadelqr@gmail.com"
     },
     "record": {
-        "A": [
-            "185.199.111.153"
+        "CNAME": [
+            "gjvhvv.github.io"
         ]
     },
     "proxied": false
