@@ -1,0 +1,13 @@
+{
+  "description": "Mars Softworks project website",
+  "domain": "owns.it.com",
+  "subdomain": "mars",
+  "owner": {
+    "repo": "https://github.com/masiha99mm-collab/Mars_Softworks_Web",
+    "email": "masiha99.mm@gmail.com"
+  },
+  "record": {
+    "CNAME": "mars-softworks.pages.dev"
+  },
+  "proxied": false
+}
