@@ -1,0 +1,13 @@
+{
+    "description": "Ola's personal project",
+    "domain": "owns.it.com",
+    "subdomain": "gta999618",
+    "owner": {
+        "repo": "https://github.com/gta999618-source/my-yt-shorts-pipeline",
+        "email": "gta999618@gmail.com"
+    },
+    "record": {
+        "A": ["1.1.1.1"]
+    },
+    "proxied": false
+}
