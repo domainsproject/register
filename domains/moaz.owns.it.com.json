@@ -1,0 +1,13 @@
+{
+  "description": "My personal portfolio for showcasing my work",
+  "domain": "owns.it.com",
+  "subdomain": "moaz",
+  "owner": {
+    "repo": "https://github.com/Eng-Moaz/Portfolio",
+    "email": "moazmohammed198@gmail.com"
+  },
+  "record": {
+    "CNAME": "portfolio-liart-psi-11.vercel.app"
+  },
+  "proxied": false
+}
