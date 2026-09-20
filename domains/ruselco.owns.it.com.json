@@ -1,0 +1,15 @@
+{
+    "description": "RUSEL CO Marketing Web Apps",
+    "domain": "owns.it.com",
+    "subdomain": "ruselco",
+    "owner": {
+        "repo": "https://github.com/rizkyesagumilar-cloud",
+        "email": "rizkyesagumilar@gmail.com"
+    },
+    "record": {
+        "A": [
+            "137.59.126.58"
+        ]
+    },
+    "proxied": false
+}
