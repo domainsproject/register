@@ -1,0 +1,13 @@
+{
+  "description": "Resend return-path CNAME for TITV scheduler mail",
+  "domain": "owns.it.com",
+  "subdomain": "rsend.titv-scheduler",
+  "owner": {
+    "repo": "https://github.com/thewritethatstaysmusic2025-cmyk",
+    "email": "329927111+thewritethatstaysmusic2025-cmyk@users.noreply.github.com"
+  },
+  "record": {
+    "CNAME": "send.forge.rmta.net"
+  },
+  "proxied": false
+}
