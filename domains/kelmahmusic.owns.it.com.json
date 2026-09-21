@@ -1,0 +1,13 @@
+{
+  "description": "Official website of Kel Mah, a Malawian music artist",
+  "domain": "owns.it.com",
+  "subdomain": "kelmahmusic",
+  "owner": {
+    "repo": "https://github.com/artornenterprise-rgb/register",
+    "email": "artornenterprise@gmail.com"
+  },
+  "record": {
+    "CNAME": "artornenterprise-rgb.github.io"
+  },
+  "proxied": false
+}
