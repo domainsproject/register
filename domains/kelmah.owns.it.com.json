@@ -1,0 +1,13 @@
+{
+  "description": "Official website for Kel Mah",
+  "domain": "owns.it.com",
+  "subdomain": "kelmah",
+  "owner": {
+    "repo": "https://github.com/kellymaklni4-bot/KelMahMusic.com",
+    "email": "kellymaklni4@gmail.com"
+  },
+  "record": {
+    "CNAME": "kellymaklni4-bot.github.io"
+  },
+  "proxied": false
+}
