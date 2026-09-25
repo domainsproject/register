@@ -1,0 +1,15 @@
+{
+  "description": "Cloudflare custom hostname verification for impulsolocal.owns.it.com",
+  "domain": "owns.it.com",
+  "subdomain": "_cf-custom-hostname.impulsolocal",
+  "owner": {
+    "repo": "https://github.com/Rafaoramas1/impulsolocal",
+    "email": "214173156+Rafaoramas1@users.noreply.github.com"
+  },
+  "record": {
+    "TXT": [
+      "3695bf4a-9a9f-4599-85be-bbff73458406"
+    ]
+  },
+  "proxied": false
+}
