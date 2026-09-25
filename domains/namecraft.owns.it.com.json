@@ -1,0 +1,13 @@
+{
+  "description": "NameCraft - Stylish Name Generator",
+  "domain": "owns.it.com",
+  "subdomain": "namecraft",
+  "owner": {
+    "repo": "https://github.com/ksrsing/stylish-name",
+    "email": "YOUR_GITHUB_EMAIL"
+  },
+  "record": {
+    "CNAME": "ksrsing.github.io"
+  },
+  "proxied": false
+}
