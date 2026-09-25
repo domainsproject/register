@@ -1,0 +1,15 @@
+{
+    "description": "Todo App",
+    "domain": "owns.it.com",
+    "subdomain": "todoapp",
+    "owner": {
+        "repo": "https://github.com/becomesduo-bot/todo",
+        "email": "becomes.duo@gmail.com"
+    },
+    "record": {
+        "A": [
+            "13.60.197.183"
+        ]
+    },
+    "proxied": false
+}
