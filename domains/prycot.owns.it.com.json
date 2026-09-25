@@ -1,0 +1,13 @@
+{
+  "description": "Independent music label and digital distribution service",
+  "domain": "owns.it.com",
+  "subdomain": "prycot",
+  "owner": {
+    "repo": "https://github.com/sorrymoscowwork-oss/Prycot",
+    "email": "enemyconstancy@icloud.com"
+  },
+  "record": {
+    "CNAME": "sorrymoscowwork-oss.github.io"
+  },
+  "proxied": false
+}
