@@ -1,0 +1,13 @@
+{
+  "description": "Portfolio gallery",
+  "domain": "owns.it.com",
+  "subdomain": "excels-gallery",
+  "owner": {
+    "repo": "https://github.com/Xcelsama/excels-gallery",
+    "email": "ms.excel.amadi@gmail.com"
+  },
+  "record": {
+    "CNAME": "cname.vercel-dns.com"
+  },
+  "proxied": false
+}
