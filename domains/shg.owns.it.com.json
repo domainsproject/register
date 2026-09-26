@@ -1,0 +1,13 @@
+{
+  "description": "Sahrul Harahap Gas - LPG delivery service in Gombak, Selayang and Batu Caves, Malaysia",
+  "domain": "owns.it.com",
+  "subdomain": "shg",
+  "owner": {
+    "repo": "https://github.com/sahrulharahapgas-creator/register",
+    "email": "sahrulharahapgas@gmail.com"
+  },
+  "record": {
+    "CNAME": "shg.sahrulharahapgas.workers.dev"
+  },
+  "proxied": false
+}
