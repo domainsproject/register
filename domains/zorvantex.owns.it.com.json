@@ -2,15 +2,12 @@
     "description": "Official Zorvantex project landing page for local-first AI and developer tools.",
     "domain": "owns.it.com",
     "subdomain": "zorvantex",
-
     "owner": {
         "repo": "https://github.com/zorvantex",
         "email": "281019566+zorvantex@users.noreply.github.com"
     },
-
     "record": {
-        "CNAME": "zorvantex.netlify.app"
+        "CNAME": "zorvantex.github.io"
     },
-
     "proxied": false
 }
