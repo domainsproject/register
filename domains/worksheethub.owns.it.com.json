@@ -1,0 +1,15 @@
+{
+    "description": "WorksheetHub AI - free student-made practice worksheets for Grade 6 and 7 (IB Service as Action project)",
+    "domain": "owns.it.com",
+    "subdomain": "worksheethub",
+
+    "owner": {
+        "repo": "https://github.com/VirajSinghChadha/worksheethub-ai"
+    },
+
+    "record": {
+        "CNAME": "virajsinghchadha.github.io"
+    },
+
+    "proxied": false
+}
