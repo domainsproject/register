@@ -1,0 +1,13 @@
+{
+  "description": "Ingram Cut Hair Studio salon booking website",
+  "domain": "owns.it.com",
+  "subdomain": "ingramcuthairstudio",
+  "owner": {
+    "repo": "https://github.com/Hot50i/salon-booking",
+    "email": "christinaanstead38@gmail.com"
+  },
+  "record": {
+    "CNAME": "ingram-top-hair-cut.onrender.com"
+  },
+  "proxied": false
+}
