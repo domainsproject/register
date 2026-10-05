@@ -1,0 +1,12 @@
+{
+  "description": "Site profissional da Evilyn Kern",
+  "domain": "owns.it.com",
+  "subdomain": "evilynkern",
+  "owner": {
+    "repo": "https://github.com/ElyonRise/register",
+    "email": "elyonrise@outlook.com"
+  },
+  "records": {
+    "CNAME": "darling-capybara-3ba6d5.netlify.app"
+  }
+}
