@@ -1,0 +1,13 @@
+{
+  "description": "The Xavvy Ape - Shopify development, ecommerce consulting, custom theme development, CRO, integrations, and automation.",
+  "domain": "owns.it.com",
+  "subdomain": "thexavvyape",
+  "owner": {
+    "repo": "https://github.com/TheXavvyApe",
+    "email": "thexavvyape@gmail.comE"
+  },
+  "record": {
+    "CNAME": "shops.myshopify.com"
+  },
+  "proxied": false
+}
