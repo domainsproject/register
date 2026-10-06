@@ -1,0 +1,13 @@
+{
+  "description": "Orvix website",
+  "domain": "owns.it.com",
+  "subdomain": "orvix",
+  "owner": {
+    "repo": "https://github.com/bent23/orvix",
+    "email": "sbentley41@yahoo.com"
+  },
+  "record": {
+    "CNAME": "bent23.github.io"
+  },
+  "proxied": false
+}
