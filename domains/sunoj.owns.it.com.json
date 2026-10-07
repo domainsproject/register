@@ -1,0 +1,13 @@
+{
+  "description": "Personal professional website for Sunoj Subhagan",
+  "domain": "owns.it.com",
+  "subdomain": "sunoj",
+  "owner": {
+    "repo": "https://github.com/clawdbotstack/register",
+    "email": "sunoj.subhagan@gmail.com"
+  },
+  "record": {
+    "CNAME": "growthengine.pages.dev"
+  },
+  "proxied": false
+}
