@@ -1,0 +1,1 @@
+{"description":"Ripo Team email domain for RipoMail - inbound mail forwarded via ForwardEmail (DNS-only, no account)","domain":"owns.it.com","owner":{},"proxied":false,"record":{"MX":["mx1.forwardemail.net","mx2.forwardemail.net"],"TXT":["forward-email=ripoteam6@gmail.com"]},"subdomain":"ripoteam"}
