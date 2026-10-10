@@ -1,0 +1,13 @@
+{
+  "description": "Ayaka's personal website",
+  "domain": "owns.it.com",
+  "subdomain": "ayaka",
+  "owner": {
+    "repo": "https://github.com/AlexLin8460/register",
+    "email": "lrx34955@gmail.com"
+  },
+  "record": {
+    "CNAME": "ayaka-edd.pages.dev"
+  },
+  "proxied": false
+}
