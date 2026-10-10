@@ -1,0 +1,13 @@
+{
+  "description": "KlypX - fast device-to-device file sharing platform",
+  "domain": "owns.it.com",
+  "subdomain": "klypx",
+  "owner": {
+    "repo": "https://github.com/Anandhu-AKR/KlypX",
+    "email": "akr9394@gmail.com"
+  },
+  "record": {
+    "CNAME": "klypx.pages.dev"
+  },
+  "proxied": false
+}
