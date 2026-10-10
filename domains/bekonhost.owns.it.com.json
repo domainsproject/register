@@ -1,0 +1,12 @@
+{
+  "description": "BEKON HOST — SA-MP / CRMP hosting",
+  "domain": "owns.it.com",
+  "subdomain": "bekonhost",
+  "owner": {
+    "repo": "https://github.com/dimonrobinzon34-hue/bekon-host"
+  },
+  "record": {
+    "CNAME": "dimonrobinzon34-hue.github.io"
+  },
+  "proxied": false
+}
