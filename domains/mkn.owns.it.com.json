@@ -1,0 +1,13 @@
+{
+  "description": "Personal wedding invitation website",
+  "domain": "owns.it.com",
+  "subdomain": "mkn",
+  "owner": {
+    "repo": "https://github.com/Maneshnarayanan/wedding-invitation",
+    "email": "maneshk27@gmail.com"
+  },
+  "record": {
+    "CNAME": "e98f9a6582128d89.vercel-dns-017.com"
+  },
+  "proxied": false
+}
