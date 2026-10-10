@@ -1,0 +1,16 @@
+{
+  "description": "Book Marketing and Market Intelligence website",
+  "domain": "owns.it.com",
+  "subdomain": "alexlyon",
+
+  "owner": {
+    "repo": "https://github.com/alexlyon-tech/alex-lyon-website",
+    "email": "al.alexlyon@gmail.com"
+  },
+
+  "record": {
+    "CNAME": "alexlyon-tech.github.io"
+  },
+
+  "proxied": false
+}
