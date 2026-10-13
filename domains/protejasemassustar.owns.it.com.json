@@ -1,0 +1,16 @@
+{
+  "description": "Sistema de entrega do e-book Proteja Sem Assustar",
+  "domain": "owns.it.com",
+  "subdomain": "protejasemassustar",
+  "owner": {
+    "repo": "https://github.com/construindoimperio12-stack/proteja-sem-assustar",
+    "email": "construindoimperio12@gmail.com"
+  },
+  "record": {
+    "A": [],
+    "AAAA": [],
+    "CNAME": "proteja-sem-assustar.onrender.com",
+    "TXT": []
+  },
+  "proxied": false
+}
