@@ -1,0 +1,15 @@
+{
+  "description": "OpenAI Sites verification for impulsolocal.owns.it.com",
+  "domain": "owns.it.com",
+  "subdomain": "_openai-site-verification.impulsolocal",
+  "owner": {
+    "repo": "https://github.com/Rafaoramas1/impulsolocal",
+    "email": "214173156+Rafaoramas1@users.noreply.github.com"
+  },
+  "record": {
+    "TXT": [
+      "openai-site-verification=PHVUUmI3I713V9TqNNYAyn61Psi6msmPQgG7Ah5opN8"
+    ]
+  },
+  "proxied": false
+}
