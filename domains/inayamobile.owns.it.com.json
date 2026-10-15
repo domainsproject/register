@@ -1,0 +1,13 @@
+{
+  "description": "Inaya Mobile - Mobile phones and accessories store",
+  "domain": "owns.it.com",
+  "subdomain": "inayamobile",
+  "owner": {
+    "repo": "https://github.com/aaftab-vijapura/inaya-mobile",
+    "email": "aaftabvijapura@gmail.com"
+  },
+  "record": {
+    "CNAME": "https://inaya-mobile.vercel.app"
+  },
+  "proxied": false
+}
