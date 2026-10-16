@@ -1,0 +1,14 @@
+
+{
+  "description": "Sitio web de MascotICA-s, proyecto de gestión y adopción de mascotas",
+  "domain": "owns.it.com",
+  "subdomain": "mascoticas",
+  "owner": {
+    "repo": "https://github.com/reff2827/MascotICA-s",
+    "email": "juancar29082002@gmail.com"
+  },
+  "record": {
+    "CNAME": "reff2827.github.io"
+  },
+  "proxied": false
+}
