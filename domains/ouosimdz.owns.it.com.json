@@ -3,8 +3,8 @@
 "domain": "owns.it.com",
 "subdomain": "ousimdz",
 "owner": {
-"repo": "https://github.com/hamzafr708@gmail.com/register",
-"email": "hamzafr708-dotcom"
+"repo": "https://github.com/hamzafr708-dotcom/register",
+"email": "hamzafr708@gmail.com"
 },
 "record": {
 "CNAME": "ousimdz-social-network.vercel.app"
