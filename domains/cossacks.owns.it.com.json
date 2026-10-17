@@ -1,0 +1,15 @@
+{
+  "description": "Private browser multiplayer server for Cossacks: Back to War",
+  "domain": "owns.it.com",
+  "subdomain": "cossacks",
+  "owner": {
+    "repo": "https://github.com/Golubbvasile",
+    "email": "golubvasile@gmail.com"
+  },
+  "record": {
+    "A": [
+      "204.168.143.157"
+    ]
+  },
+  "proxied": false
+}
