@@ -2,7 +2,7 @@
 {
   "description": "CineLog website hosted on Vercel",
   "domain": "owns.it.com",
-  "subdomain": "cinelog",
+  "subdomain": "_vercel.cinelog"
   "owner": {
     "repo": "https://github.com/zvozvozvo/cinelog",
     "email": "sstrik2024lsl@gmail.com"
