@@ -1,0 +1,15 @@
+{
+  "description": "Vercel ownership verification for CineLog",
+  "domain": "owns.it.com",
+  "subdomain": "_vercel",
+  "owner": {
+    "repo": "https://github.com/zvozvozvo/cinelog",
+    "email": "sstrik2024lsl@gmail.com"
+  },
+  "record": {
+    "TXT": [
+      "vc-domain-verify=cinelog.owns.it.com,593c9e4a04904d54b196"
+    ]
+  },
+  "proxied": false
+}
