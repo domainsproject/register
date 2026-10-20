@@ -1,0 +1,14 @@
+
+{
+  "description": "CineLog website hosted on Vercel",
+  "domain": "owns.it.com",
+  "subdomain": "cinelog",
+  "owner": {
+    "repo": "https://github.com/zvozvozvo/cinelog",
+    "email": "sstrik2024lsl@gmail.com"
+  },
+  "record": {
+    "CNAME": "85ce81cc56ebd5f7.vercel-dns-017.com"
+  },
+  "proxied": false
+}
