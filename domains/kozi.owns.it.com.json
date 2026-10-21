@@ -1,0 +1,14 @@
+
+{
+  "description": "Website resmi KOZI - Kopinya Anak Gen Z",
+  "domain": "owns.it.com",
+  "subdomain": "kozi",
+  "owner": {
+    "repo": "https://github.com/Afterrain00/kozi",
+    "email": "fzgamingkids@gmail.com"
+  },
+  "record": {
+    "CNAME": "afterrain00.github.io"
+  },
+  "proxied": false
+}
