@@ -1,0 +1,28 @@
+{
+  "description": "Personal site with browser games and web tools (link checker). Website: https://c00lkiddtech.live",
+  "domain": "owns.it.com",
+  "subdomain": "c00lkiddtech",
+  "owner": {
+    "repo": "https://github.com/c00lkiddtech/c00lkiddtech",
+    "email": "c00lkiddweb@gmail.com"
+  },
+  "record": {
+    "A": [
+      "15.204.116.29"
+    ]
+  },
+  "proxied": false
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
