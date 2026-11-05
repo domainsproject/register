@@ -1,0 +1,13 @@
+{
+  "description": "BookCore / Суть — a non-commercial knowledge base with long-form editorial book analyses, semantic search, reading tools and practical action plans.",
+  "domain": "owns.it.com",
+  "subdomain": "bookcore",
+  "owner": {
+    "repo": "https://github.com/Alexgtup/bookcore-site",
+    "email": "117043593+Alexgtup@users.noreply.github.com"
+  },
+  "record": {
+    "CNAME": "bookcore.pages.dev"
+  },
+  "proxied": false
+}
