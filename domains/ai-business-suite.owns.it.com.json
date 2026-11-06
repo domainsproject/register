@@ -1,0 +1,14 @@
+{
+  "description": "AI business automation project landing and API entry point hosted on USA-1",
+  "domain": "owns.it.com",
+  "subdomain": "ai-business-suite",
+  "owner": {
+    "repo": "https://github.com/4104182"
+  },
+  "record": {
+    "A": [
+      "82.22.23.61"
+    ]
+  },
+  "proxied": false
+}
