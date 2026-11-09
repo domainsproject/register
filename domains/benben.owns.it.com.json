@@ -1,0 +1,13 @@
+{
+  "subdomain": "benben",
+  "domain": "owns.it.com",
+  "email_or_discord": "redouank92@gmail.com",
+  "github_username": "haddadi115",
+  "description": "Email domain authentication",
+  "records": {
+    "TXT": [
+      "v=spf1 ip4:193.150.15.106 ip4:193.150.15.38 ip4:193.150.15.40 ip4:193.150.15.70 ip4:193.150.15.94 -all"
+    ]
+  },
+  "proxied": false
+}
