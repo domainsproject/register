@@ -1,0 +1,13 @@
+{
+  "description": "Fronteira Morta 2.0 — jogo independente de sobrevivência a zumbis hospedado no GitHub Pages.",
+  "domain": "owns.it.com",
+  "subdomain": "fronteiramorta",
+  "owner": {
+    "repo": "https://github.com/viniresenha777-coder/Df-2.0",
+    "email": "viniresenha777@gmail.com"
+  },
+  "record": {
+    "CNAME": "viniresenha777-coder.github.io"
+  },
+  "proxied": false
+}
