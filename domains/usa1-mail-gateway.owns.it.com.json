@@ -1,0 +1,14 @@
+{
+  "description": "Reserved DNS host for future self-hosted email transport on USA-1; no live mail service yet",
+  "domain": "owns.it.com",
+  "subdomain": "usa1-mail-gateway",
+  "owner": {
+    "repo": "https://github.com/4104182"
+  },
+  "record": {
+    "A": [
+      "82.22.23.61"
+    ]
+  },
+  "proxied": false
+}

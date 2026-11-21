@@ -1,0 +1,14 @@
+{
+  "description": "Multilingual creator content tools and Telegram integration landing page hosted on USA-1",
+  "domain": "owns.it.com",
+  "subdomain": "creator-content-hub",
+  "owner": {
+    "repo": "https://github.com/4104182"
+  },
+  "record": {
+    "A": [
+      "82.22.23.61"
+    ]
+  },
+  "proxied": false
+}
