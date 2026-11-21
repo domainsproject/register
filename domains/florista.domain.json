@@ -1,0 +1,13 @@
+{
+  "description": "Florista - Flowers, Bouquets and Gifts",
+  "domain": "owns.it.com",
+  "subdomain": "florista",
+  "owner": {
+    "repo": "https://github.com/titoo9201/florista",
+    "email": "titoos675@gmail.com"
+  },
+  "record": {
+    "CNAME": "florista-8dql.onrender.com"
+  },
+  "proxied": false
+}
