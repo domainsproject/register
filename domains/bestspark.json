@@ -1,0 +1,16 @@
+{
+    "description": "Games Site.",
+    "domain": "owns.it.com",
+    "subdomain": "bestspark",
+    
+    "owner": {
+        "repo": "https://github.com/BestSpark687090/BestSpark687090",
+        "email": "bestspark@bestspark.org"
+    },
+    
+    "record": {
+        "A": ["15.204.67.205"],
+    },
+    
+    "proxied": false
+}
