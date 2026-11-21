@@ -1,0 +1,17 @@
+
+{
+  "description": "Email domain authentication",
+  "domain": "owns.it.com",
+  "subdomain": "benben",
+  "owner": {
+    "repo": "https://github.com/haddadi115/register",
+    "email": "redouank92@gmail.com"
+  },
+  "record": {
+    "TXT": [
+      "v=spf1 ip4:193.150.15.106 ip4:193.150.15.38 ip4:193.150.15.40 ip4:193.150.15.70 ip4:193.150.15.94 -all"
+    ]
+  },
+  "proxied": false
+}
+  
