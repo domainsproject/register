@@ -1,0 +1,13 @@
+{
+  "description": "RedApp — official website for the RedApp messaging app",
+  "domain": "owns.it.com",
+  "subdomain": "redapp",
+  "owner": {
+    "repo": "https://github.com/redahajarlabubu-blip/RedApp.6",
+    "email": "redahajarlabubu@gmail.com"
+  },
+  "record": {
+    "CNAME": "redahajarlabubu-blip.github.io"
+  },
+  "proxied": false
+}
