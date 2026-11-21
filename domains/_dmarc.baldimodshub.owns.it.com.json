@@ -1,0 +1,13 @@
+{
+  "subdomain": "_dmarc.baldimodshub",
+  "domain": "owns.it.com",
+  "description": "DMARC record for baldimodshub",
+  "owner": {
+    "email": "zakaria.next.com@gmail.com"
+  },
+  "record": {
+    "TXT": [
+      "v=DMARC1; p=none; rua=mailto:rua@dmarc.brevo.com"
+    ]
+  }
+}
