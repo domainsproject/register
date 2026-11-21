@@ -1,0 +1,16 @@
+{
+  "description": "Akbar Jewellers Website",
+  "domain": "owns.it.com",
+  "subdomain": "akbarjewellers",
+  
+  "owner": {
+    "repo": "https://github.com/akbarjewellersfaizehussaini-beep/akbar-jewellers",
+    "email": "akbarjewellersfaizehussaini@gmail.com"
+  },
+  
+  "record": {
+    "CNAME": "akbarjewellersfaizehussaini-beep.github.io"
+  },
+  
+  "proxied": false
+}
