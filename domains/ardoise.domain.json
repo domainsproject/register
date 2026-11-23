@@ -1,0 +1,14 @@
+
+{
+  "description": "Ardoise is a school management SaaS platform developed in Benin. It provides school administration, student management, academic tracking and parent access.",
+  "domain": "owns.it.com",
+  "subdomain": "ardoise",
+  "owner": {
+    "repo": "https://github.com/hstkbj/Ardoise",
+    "email": "soheholmes7@gmail.com"
+  },
+  "record": {
+    "CNAME": "ardoise-v5xz.onrender.com"
+  },
+  "proxied": false
+}
