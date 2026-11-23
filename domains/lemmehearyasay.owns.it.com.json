@@ -1,0 +1,12 @@
+{
+  "description": "Personal portfolio for QA, game development, and AI/ML projects.",
+  "domain": "owns.it.com",
+  "subdomain": "lemmehearyasay",
+  "owner": {
+    "repo": "https://github.com/ripkiiii"
+  },
+  "record": {
+    "CNAME": "lemmehearyasay.pages.dev"
+  },
+  "proxied": false
+}
