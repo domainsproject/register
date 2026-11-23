@@ -1,0 +1,13 @@
+{
+    "description": "An open-source Italian calculator to compare two AI implementation quotes over a 12-month period. Developed by PugliAI for business buyers.",
+    "domain": "owns.it.com",
+    "subdomain": "pugliai-lab",
+    "owner": {
+        "repo": "https://github.com/gunnit/pugliai-lab",
+        "email": "gregor@pugliai.com"
+    },
+    "record": {
+        "CNAME": "pugliai-lab.onrender.com"
+    },
+    "proxied": false
+}
