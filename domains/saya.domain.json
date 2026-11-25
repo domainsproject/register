@@ -1,0 +1,14 @@
+
+{
+  "description": "Official website of Saya, an Android note-taking application.",
+  "domain": "owns.it.com",
+  "subdomain": "saya",
+  "owner": {
+    "repo": "https://github.com/SayaNotes/sayanotes.github.io",
+    "email": "YOUR_EMAIL"
+  },
+  "record": {
+    "CNAME": "sayanotes.github.io"
+  },
+  "proxied": false
+}
