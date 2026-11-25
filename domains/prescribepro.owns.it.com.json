@@ -1,0 +1,13 @@
+{
+  "description": "PrescribePro Rx clinical workflow application",
+  "domain": "owns.it.com",
+  "subdomain": "prescribepro",
+  "owner": {
+    "repo": "https://github.com/SJHWalker/PrescribePro-Rx",
+    "email": "SYEDJUNAIDHUMAIL@GMAIL.COM"
+  },
+  "record": {
+    "CNAME": "SJHWalker.github.io"
+  },
+  "proxied": false
+}
