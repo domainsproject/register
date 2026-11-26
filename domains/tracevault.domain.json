@@ -1,0 +1,13 @@
+{
+  "description": "TraceVault - Cryptocurrency investigation and case management platform.",
+  "domain": "owns.it.com",
+  "subdomain": "tracevault",
+  "owner": {
+    "repo": "https://github.com/frankjoe03-au/tracevault",
+    "email": "frankjoe03333@gmail.com"
+  },
+  "record": {
+    "CNAME": "tracevault-8ytk.onrender.com"
+  },
+  "proxied": false
+}
