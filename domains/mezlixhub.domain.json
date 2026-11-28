@@ -1,0 +1,16 @@
+{
+    "description": "MezlixHub anime streaming and community website.",
+    "domain": "owns.it.com",
+    "subdomain": "mezlixhub",
+
+    "owner": {
+        "repo": "https://github.com/itsumieee/mezlixhub",
+        "email": "mezlotic@gmail.com"
+    },
+
+    "record": {
+        "CNAME": "db51d5664d8c6e54.vercel-dns-017.com"
+    },
+
+    "proxied": false
+}
